@@ -33,7 +33,7 @@ const quotes = [
     "#itspanglangnow - Sophie 2023",
     "Nope. No. Fine… maybe. Nah… - Sophie 2023",
     "Short people always rage quit lol - Lilian 2023",
-    "OMG I’m gonna fail!!! *gets A+* - Everyone in Ignite 202",
+    "OMG I’m gonna fail!!! *gets A+* - Everyone in Ignite 2023",
     "Bruh - Enoch 2023",
     "你不是我的好朋友 - Google Translate 2023",
     "我会送你去见耶稣 - Google Translate 2023",
