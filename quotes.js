@@ -40,5 +40,5 @@ const quotes = [
     "I only see one capybara out of like sex - Lilian 2023",
     "Oh sh- Lilian 2023",
     "So hopefully he will fix the white issue - Dylan 2023",
-    "Thats what she said! - Ming Lang 2023",
+    "ThAtS whAT shE sAId! - Ming Lang 2023",
     ];
