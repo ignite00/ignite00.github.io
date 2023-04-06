@@ -38,7 +38,7 @@ const quotes = [
     "你不是我的好朋友 - Google Translate 2023",
     "我会送你去见耶稣 - Google Translate 2023",
     "I only see one capybara out of like sex - Lilian 2023",
-    "Oh sh- Lilian 2023",
+    "Oh sh... - Lilian 2023",
     "So hopefully he will fix the white issue - Dylan 2023",
     "ThAtS whAT shE sAId! - Ming Lang 2023",
     ];
