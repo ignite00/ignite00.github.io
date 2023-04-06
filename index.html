@@ -1,0 +1,401 @@
+<!DOCTYPE html> <html>
+<head>
+<title>Ang's Teaching Temple</title>
+<script src="./quotes.js"></script>
+<link rel="icon" 
+     type="image/png" 
+     href="images/myicon.png"> 
+	<style>
+	body {
+	background-image: url(images/jesang.png)
+	}
+	
+    #body {
+      text-align: center;
+    }
+    #previous {
+     position: absolute;
+     top: 500px;
+	 left: 42%
+    }
+	#next {
+     position: absolute;
+     top: 500px;
+	 left: 53%
+    }
+	#page {
+	position: absolute;
+	top: 500px;
+	left: 49.7%
+	}
+	p {
+	color: white;
+	font-weight: bolder
+	}
+	h1 {
+	color: white;
+	font-weight: bolder
+	}
+	span {
+	color: white;
+	font-weight: bolder
+	}
+	.text2 {
+	color: black;
+	font-weight: bolder
+	}
+	#sincont {
+	position: absolute;
+	top: 525px;
+	left: 48%
+	}
+	
+	#quote {
+	font-size: 64px;
+	}
+	
+	</style>
+</head>
+<body id="thingy">
+<div id="body">
+</div>
+<button id="previous" onClick="previousPage()">Previous</button>
+<span class='span' id="page">1</span>
+<button id="next" onClick="nextPage()">Next</button>
+<p class="p" id="sincont">SINS: <span id="sins"class ="span">0</span></p>
+</body>
+<script>
+var correctAnswers = ["C", "B", "D", "B", "A"]
+var counter = []
+var answers = []
+var sins = 0
+var back = "A"
+var text = "B"
+var page = 1
+var prefix = ""
+var pageData = [
+//"<h1 class='h1'>HAPPY BIRTHDAY MR. ANG!!</h1><p class='p'>We hope you have an amazing birthday full of fun and joy!<br><br><img src='images/cake.jpg'></p>",
+"<h1 class='h1'>GREETINGS!</h1><p class='p'>Welcome to Ang's Teaching Temple.</p><p class='p'>Press the button below to continue.</p>", 
+"<h1 class='h1'>Ten CommANGments</h1><p class='p'>1. You must praise Ang, our Lord.</p><p class='p'>2. You must listen to Ang's divine wisdom.</p><p class='p'>3. Be smart.</p><p class='p'>4. Never talk back, or you will be exiled.</p><p class='p'>5. No matter what Ang says, you must agree.</p><p class='p'>6. If Ang enjoys/likes something or an activity, you must also enjoy it.</p><p class='p'>7. Being insulted by Ang is an honour.</p><p class='p'>8. Not finishing the teaching notes in a certain amount of time will get you punished.</p><p class='p'>9. You will be executed if you mispronounce or misspell Ang's name.</p><p class='p'>10. You will be subjected to a punishment worse than death if you insult, badmouth or attempt to injure Ang.</p>", 
+"<h1 class='h1'>CONTENTS</h1><p class='p'>Teaching Notes:&nbsp;&nbsp;&nbsp;<button onclick='viewTeachingNotes()'>View</button></p><p class='p'>Settings:&nbsp;&nbsp;&nbsp;<button onClick='viewSettings()'>View</button></p><p class='p'>Test:&nbsp;&nbsp;&nbsp;<button onClick='viewTest()'>View</button></p><p class='p'>Random Quote: <button onClick='viewQuotes()'>View</button></p><p class='p'>Website Changelog: <button onClick='viewChangelog()'>View</button><p class='p'>Ang Extension: <a class='button' href='angextension.zip' download>Download</a>"
+];
+
+document.getElementById("body").innerHTML = pageData[0]
+
+var teachingNotes = [
+"<h1 class='h1'>Algebra Terminology 10/05/2022</h1><p><img src='images/100522.png'></p>",
+"<h1 class='h1'>Combining Like Terms 13/05/2022</h1><p class='p'><img src='images/130522.png'></p>",
+"<h1 class='h1'>Multiplying and Dividing Algebraic Terms 17/05/2022</h1><p><img src='images/170522.png'></h1>",
+"<h1 class='h1'>Expanding Brackets 24/05/2022</h1><p class='p'><img src='images/240522.png'></p>",
+"<h1 class='h1'>Factorising Expressions 26/05/2022</h1><p><img src='images/260522.png'></h1>"
+];
+
+var settings = "<h1 class='h1'>Font Colour</h1><button onClick='changeFontColor()'>Change</button><h1 class='h1'>Background</h1><button onClick='changeBackground()'>Change</button>"
+
+var test = [
+"<h1 class='h1'>What nationality is Ang?</h1><p class='p'><button onClick='answerA()'>A. Chinese</button><button onClick='answerB()'>B. Japanese</button></p><p class='p'><button onClick='answerC()'>C. Malaysian</button><button onClick='answerD()'>D. American</button></p>",
+"<h1 class='h1'>Quantify Ang's power.</h1><p class='p'><button onClick='answerA()'>A. 1,000 N of force</button><button onClick='answerB()'>B. a̷̡̧̟̪̪̺͔̭̭̱̫̦̤̣̫̤̪͔͕̠̽̒̓̏̋͋̇̀̃̈̂̓̑̿̀͊̒̌̒̽͊͘̕͝͝͠ͅb̴̩͕͒͗͑̆̉̀̉͆̋̇̎̃̌̽͊͘͝s̷̨̧̮̯̭͇̀͂̐̾̇̓̐̋͘̕̚ͅd̴̢̝̖͔̟̻̥̘̗̟̑̍̑͘W̶̨̡̨̡̧̛̦͖̼̻̼̹̠̞̯̘͓̪͓̠̼͍͖͕̺̘̖͊͒ͅd̶̨̨̨̧̡̧͈͎̞̹̹͖̗̺̜͖̯̮̜͎͗̏̈̄͋͂͑̐͋̅̊͗͐́̀̈́͊̍̉̎͑̎͜͝ͅṡ̴̡̛̹͇͓̣̰̠̻͎̮͉̠̗̤̠̥͉̠̉̈́̓̎͌̀̃̔̽̽͆̔̈̒̃͌͛̃̿͗̊͊͗͘̚͘a̸̛̯̱̻̣̫̗̲͌̂͊̒͌̓͒̉̀̊̇̈́̄̔̊̃̏̑͗̃͒̎̌̾̕͘͠͝ͅ  N of force</button></p><p class='p'><button onClick='answerC()'>C. 50 N of force</button><button onClick='answerD()'>D. 10 N of force</button></p>",
+"<h1 class='h1'>What is Ang's day of birth?</h1><p class='p'><button onClick='answerA()'>A. 13th of July</button><button onClick='answerB()'>B. 29th of January</button></p><p class='p'><button onClick='answerC()'>C. 11th of May</button><button onClick='answerD()'>D. 28th of March</button></p>",
+"<h1 class='h1'>What is Ang's recommended brand of calculator</h1><p class='p'><button onClick='answerA()'>A. Hewlet-Packard</button><button onClick='answerB()'>B. Casio</button></p><p class='p'><button onClick='answerC()'>C. Sharp</button><button onClick='answerD()'>D. Canon</button></p>",
+"<h1 class='h1'>What is Ang's favourite colour?</h1><p class='p'><button onClick='answerA()'>A. Red</button><button onClick='answerB()'>B. Blue</button></p><p class='p'><button onClick='answerC()'>C. Purple</button><button onClick='answerD()'>D. Green</button></p>"
+];
+
+
+//The newer they are, the higher up in the list
+var changelog = [
+"14/03/23: Added more quotes, and the toal of quotes is now 100!!!!",
+"1/03/23: Added more quotes, and quotes now include quotes from World Music Ensemble rehearsals.",
+"25/02/23: Added more quotes, the total is now 91",
+"4/02/23: Added 3 more quotes (total 88), and quotes now include quotes from Mr Ang when he teaches his year 8 music class!",
+"30/1/23: Added more quotes, bringing the total to 85!",
+"18/10/2022: Added the ability to get sins by getting answers on the test wrong. Also, sins save.",
+"31/08/2022: Fixed the large glitches in the revamped test system that happened since I was too tired to test.<br>If you get an answer wrong, it now shows you how many you have wrong instead of just saying 'at least one'.",
+"30/08/2022: Revamped the test system, you can now go back and change your answers.",
+"29/08/2022: Ang's Teaching Temple now has over 400 lines of code!<br>Arrow keys added to change pages (works on quotes).<br>Hold arrow keys to rapidly change pages/quotes.<br>Two additional questions added to the test. 6 more quotes added, bringing the total up to 32!",
+"25/08/2022: Changelog added, 2 new quotes added, bringing the total to 26."
+]
+
+
+
+
+function previousPage() {
+if (page > 1) {
+page = page -= 1
+if (prefix == "") {
+document.getElementById('body').innerHTML = pageData[page - 1]
+} else if (prefix == "A") {
+document.getElementById('body').innerHTML = teachingNotes[page - 1]
+} else if (prefix == "C") {
+document.getElementById('body').innerHTML = test[page - 1]
+}
+} else if (prefix == "A") {
+prefix = ""
+page = pageData.length
+document.getElementById('body').innerHTML = pageData[page - 1]
+} else if (prefix == "B") {
+prefix = ""
+page = pageData.length
+document.getElementById('body').innerHTML = pageData[page - 1]
+} else if (prefix == "C") {
+prefix = ""
+page = pageData.length
+document.getElementById('body').innerHTML = pageData[page - 1]
+} else if (prefix == "D") {
+prefix = ""
+page = pageData.length
+document.getElementById('body').innerHTML = pageData[page - 1]
+} else if (prefix == "E") {
+prefix = ""
+page = pageData.length
+document.getElementById('body').innerHTML = pageData[page - 1]
+} else if (prefix == "F") {
+prefix = ""
+page = pageData.length
+document.getElementById('body').innerHTML = pageData[page - 1]
+} else if (prefix == "G") {
+prefix = ""
+page = pageData.length
+document.getElementById('body').innerHTML = pageData[page - 1]
+}
+}
+
+
+function nextPage() {
+if (prefix == "") {
+if (page < pageData.length) {
+page += 1
+document.getElementById('body').innerHTML = pageData[page - 1]
+}
+} else if (prefix == "A") {
+if (page < teachingNotes.length) {
+page += 1
+document.getElementById('body').innerHTML = teachingNotes[page - 1]
+}
+} else if (prefix == "C") {
+if (page != correctAnswers.length) {
+page += 1
+document.getElementById('body').innerHTML = test[page - 1]
+} else {
+viewTestResult()
+}
+
+} else if (prefix == "E") {
+viewQuotes()
+}
+
+}
+
+function changeFontColor() {
+if (text == "A") {
+text = "B"
+} else if (text == "B") {
+text = "C"
+} else if ( text == "C") {
+text = "A"
+}
+}
+
+function changeBackground() {
+if (back == "A") {
+//EDIT LATER FIX FIX FIX FIX FIX
+back = "C"
+} else if (back == "B") {
+back = "C"
+} else if (back == "C") {
+back = "D"
+} else if (back == "D") {
+back = "A"
+}
+}
+
+function viewTeachingNotes() {
+prefix = "A"
+page = 1
+document.getElementById('body').innerHTML = teachingNotes[page - 1]
+}
+
+function viewSettings() {
+prefix = "B"
+page = 1
+document.getElementById('body').innerHTML = settings
+}
+
+function viewTest() {
+prefix = "C"
+page = 1
+answers.length = 0
+document.getElementById('body').innerHTML = test[page - 1]
+answers = []
+
+for (let i = 0; i < correctAnswers.length; i++) {
+answers.push("")
+}
+
+}
+function viewTestResult() {
+prefix = "D"
+page = 1
+counter[0] = 0
+for (let i = 0; i < correctAnswers.length; i++) {
+if (answers[i] == correctAnswers[i]) {
+counter[0] += 1
+}
+}
+
+if (counter[0] == correctAnswers.length) {
+document.getElementById('body').innerHTML = "<h1 class='h1'>TEST RESULTS</h1><p class='p'>You got all the answers correct!</p>"
+} else {
+document.getElementById('body').innerHTML = "<h1 class='h1'>TEST RESULTS</h1><p class='p'>You got " + (correctAnswers.length - counter[0]) + " of the answers wrong. This is a crime. You are being hunted down.<br>+" + (correctAnswers.length - counter[0]) + " Sins.</p>"
+}
+sins += correctAnswers.length - counter[0]
+}
+
+function viewQuotes() {
+prefix = "E"
+page = 1
+document.getElementById('body').innerHTML = "<h1 class='h1'>Random Quote</h1><br><p class='p' id='quote'>\"" + randomQuote() + "\"<br>- Ang</p>"
+}
+
+
+//WORK
+
+function viewChangelog() {
+prefix = "F"
+page = 1
+let temp = ""
+
+for (let i = 0; i < changelog.length; i++) {
+temp += "<p class='p'>" + changelog[i] + "</p><br>"
+}
+
+document.getElementById('body').innerHTML = temp
+}
+
+function answerA() {
+answers[page - 1] = "A"
+nextPage()
+}
+
+function answerB() {
+answers[page - 1] = "B"
+nextPage()
+}
+
+function answerC() {
+answers[page - 1] = "C"
+nextPage()
+}
+
+function answerD() {
+answers[page - 1] = "D"
+nextPage()
+}
+
+
+setInterval(function () {
+if (text == "A") { //If text is Black
+var h1ele = document.getElementsByClassName("h1")
+var pele = document.getElementsByClassName("p")
+var spanele = document.getElementsByClassName("span")
+
+for (let i = 0; i < h1ele.length; i++) {
+h1ele[i].style.color = "black"
+}
+for (let i = 0; i < pele.length; i++) {
+pele[i].style.color = "black"
+}
+for (let i = 0; i < spanele.length; i++) {
+spanele[i].style.color = "black"
+}
+} else if (text == "B") { //If text is White
+var h1ele = document.getElementsByClassName("h1")
+var pele = document.getElementsByClassName("p")
+var spanele = document.getElementsByClassName("span")
+
+for (let i = 0; i < h1ele.length; i++) {
+h1ele[i].style.color = "white"
+}
+for (let i = 0; i < pele.length; i++) {
+pele[i].style.color = "white"
+}
+for (let i = 0; i < spanele.length; i++) {
+spanele[i].style.color = "white"
+}
+} else if (text == "C") { //If text is Gray
+var h1ele = document.getElementsByClassName("h1")
+var pele = document.getElementsByClassName("p")
+var spanele = document.getElementsByClassName("span")
+
+for (let i = 0; i < h1ele.length; i++) {
+h1ele[i].style.color = "gray"
+}
+for (let i = 0; i < pele.length; i++) {
+pele[i].style.color = "gray"
+}
+for (let i = 0; i < spanele.length; i++) {
+spanele[i].style.color = "gray"
+}
+}
+}, 10);
+
+setInterval(function () {
+if (back == "A") {
+document.getElementById('thingy').style.backgroundImage = 'url(images/jesang.png)'
+} else if (back == "B") {
+document.getElementById('thingy').style.backgroundImage = 'url(images/gang.png)'
+} else if (back == "C") {
+document.getElementById('thingy').style.backgroundImage = 'url(images/monanglisa.png)'
+} else if (back == "D") {
+document.getElementById('thingy').style.backgroundImage = 'url(images/angsupper.png)'
+}
+}, 10);
+
+
+function randomQuote() {
+return quotes[quotes.length * Math.random() | 0]
+}
+
+
+var previousSins = 0
+setInterval(function () {
+document.getElementById('page').innerHTML = prefix + page
+if (previousSins < sins) {
+updateSins()
+}
+previousSins = sins
+}, 10);
+
+function updateSins() {
+document.getElementById('sins').innerHTML = sins
+saveData()
+}
+
+window.addEventListener('load', (event) => {
+	console.log('Started')
+});
+
+window.addEventListener("keydown", function(event) {
+	if (event.code == "ArrowRight") {
+		nextPage()
+	}
+	if (event.code == "ArrowLeft") {
+		previousPage()
+	}
+});
+
+function saveData() {
+	var data = {
+		sins: sins
+	}
+	
+	localStorage.setItem("angData", JSON.stringify(data))
+}
+
+function loadData() {
+	var data = JSON.parse(localStorage.getItem("angData"));
+	if (typeof data.sins != null) sins = data.sins;
+}
+
+window.addEventListener("load", function() {loadData()})
+</script>
+</script>
