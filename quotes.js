@@ -43,4 +43,7 @@ const quotes = [
     "ThAtS whAT shE sAId! - Ming Lang 2023",
     "ITS LILIAN HERE AND I SAY BALLS ARE NOT TASTY - Lilian 2023",
     "Yes sire! - Ming Lang 2023",
+    "I hate you! - Kerui Yang 2023",
+    "You are so annoying - Kerui Yang 2023",
+    "Idk; I know what idk means! idk why but i will keep saying idk - Kerui Yang",
     ];
