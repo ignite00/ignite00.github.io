@@ -64,4 +64,5 @@ const quotes = [
     "Why doesn't anyone believe that I didn't study for Ignite?! - Jesper 2023",
     "A pastry no greater hath I seen - Samik 2023",
     "WELL F*CK THEM!! - Dylan 2023",
+    "Whaaaaaaaaaaaaaaat? - Kerui 2023",
     ];
