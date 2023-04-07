@@ -62,5 +62,6 @@ const quotes = [
     "iF yOu sPeLl ApPlEsAuCe, WiTh JuSt A’s, tHeN yOu GeT AAHHHHHHHHHHHH - Oliver 2023",
     "Excuse my pro speeling and grammartation skillz - Lilian 2023",
     "Why doesn't anyone believe that I didn't study for Ignite?! - Jesper 2023",
-    "A pastry no greater hath I seen - Samik 2023"
+    "A pastry no greater hath I seen - Samik 2023",
+    "WELL F*CK THEM!! - Dylan 2023",
     ];
