@@ -47,13 +47,8 @@ const quotes = [
     "Stop swearing! - Kerui 2023",
     "ITS LILIAN HERE AND I SAY BALLS ARE NOT TASTY - Lilian 2023",
     "Yes sire! - Ming Lang 2023",
-<<<<<<< HEAD
     "Dylan I hate you! - Kerui 2023",
     "You are so annoying - Kerui 2023", //50
-=======
-    "Dylan I hate you! - Kerui 2023", //50
-    "You are so annoying - Kerui 2023",
->>>>>>> 96e5f51535fe11892dcb665689d00d32bf04da89
     "Idk? I know what idk means! Idk why but I will keep saying idk - Kerui 2023",
     "*Dies when someone says HA* - Aahana 2023",
     "*Exaggerated double eyebrow raise* - Ming Lang 2023",
