@@ -22,6 +22,7 @@
      position: absolute;
      top: 500px;
 	 left: 53%
+	
     }
 	#page {
 	position: absolute;
@@ -53,6 +54,7 @@
 	#quote {
 	font-size: 64px;
 	}
+	
 	
 	</style>
 </head>
@@ -124,7 +126,8 @@ var birthdays = [
 function getbirthdays() {
 prefix = "G"
 page = 1
-document.getElementById('body').innerHTML = birthdays
+a = document.getElementById('body').innerHTML = birthdays
+a.style.color = "white"
 }
 	
 
