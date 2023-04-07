@@ -41,5 +41,5 @@ const quotes = [
     "Oh sh... - Lilian 2023",
     "So hopefully he will fix the white issue - Dylan 2023",
     "ThAtS whAT shE sAId! - Ming Lang 2023",
-    "Well f*&k them! - Dylan Tan 2023"
+    "ITS LILIAN HERE AND I SAY BALLS ARE NOT TASTY - Lilian 2023",
     ];
