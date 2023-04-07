@@ -61,5 +61,5 @@ const quotes = [
     "TRAIIIITORRRRRRRRRRRRRR - Oliver 2023", //60
     "MAGENTAAAAA - Oliver 2023",
     "iF yOu sPeLl ApPlEsAuCe, WiTh JuSt A’s, tHeN yOu GeT AAHHHHHHHHHHHH - Oliver 2023",
-    "Excuse my pro spelling - Lilian 2023",
+    "Excuse my pro speeling and grammartation skillz - Lilian 2023",
     ];
