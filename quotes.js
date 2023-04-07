@@ -49,5 +49,5 @@ const quotes = [
     "Yes sire! - Ming Lang 2023",
     "Dylan I hate you! - Kerui Yang 2023", //50
     "You are so annoying - Kerui 2023",
-    "Idk; I know what idk means! idk why but i will keep saying idk - Kerui 2023",
+    "Idk? I know what idk means! Idk why but I will keep saying idk - Kerui 2023",
     ];
