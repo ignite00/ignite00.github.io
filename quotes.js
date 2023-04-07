@@ -50,7 +50,7 @@ const quotes = [
     "Dylan I hate you! - Kerui 2023",
     "You are so annoying - Kerui 2023", //50
     "Idk? I know what idk means! Idk why but I will keep saying idk - Kerui 2023",
-    "*Dies when someone says HA* - Aahana 2023",
+    "*Dies when someone says aaHAna* - Aahana 2023",
     "*Exaggerated double eyebrow raise* - Ming Lang 2023",
     "That’s racist - Samik 2023",
     "You’re such a pastry - Samik 2023",
