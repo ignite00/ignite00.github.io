@@ -19,7 +19,6 @@ const quotes = [
     "I LIKE BALLS - Lukas 2023",
     "I like holding balls - Danny 2023",
     "我喜欢吃球 (I eat balls) - Kerui 2023", //20
-    "Samik says I malless men - Kerui 2023",
     "It’s white, sticky and tasty - Ming Lang 2023",
     "我喜欢吃大屁股 - Mehrad 2023",
     "My name is Terry! not Kerui! - Kerui 2023",
@@ -28,8 +27,8 @@ const quotes = [
     "OMG NO!! MY GPA IS AT 14.56 BECAUSE I GOT AN A!!!! - Sophie 2023",
     "I was so bad cos I went first… I got 90/100 😭 - Sophie 2023",
     "NOOOOO MY GPA WENT DOWN 0.17 POINTS!!! - Dylan 2023",
-    "And I’m chilling here with my 13.5 GPA :D - Lilian 2023", //30
-    "SAY THAT AGAIN AND I WILL MURDER YOU SO BAD THAT YOU WON'T EVER BE BLIND AGAIN. YOU’LL BE FREAKIN DEAD - Lilian 2023",
+    "And I’m chilling here with my 13.5 GPA :D - Lilian 2023",
+    "SAY THAT AGAIN AND I WILL MURDER YOU SO BAD THAT YOU WON'T EVER BE BLIND AGAIN. YOU’LL BE FREAKIN DEAD - Lilian 2023", //30
     "YOu KnoW WhAT THaT souNDS liKe? A YOU PROBLEM! - Mostly Lilian. but also nearly everyone in 700 2023",
     "TOFFEE IS DA BEST - Lilian 2023",
     "My hair just sticks up - Yiming",
@@ -38,8 +37,8 @@ const quotes = [
     "Short people always rage quit lol - Lilian 2023",
     "OMG I’m gonna fail!!! *gets A+* - Everyone in Ignite 2023",
     "Bruh - Enoch 2023",
-    "你不是我的好朋友 - Google Translate 2023", //40
-    "我会送你去见耶稣 - Google Translate 2023",
+    "你不是我的好朋友 - Google Translate 2023",
+    "我会送你去见耶稣 - Google Translate 2023", //40
     "I only see one capybara out of like sex - Lilian 2023",
     "Oh sh... - Lilian 2023",
     "So hopefully he will fix the white issue - Dylan 2023",
@@ -48,8 +47,8 @@ const quotes = [
     "ITS LILIAN HERE AND I SAY BALLS ARE NOT TASTY - Lilian 2023",
     "Yes sire! - Ming Lang 2023",
     "Dylan I hate you! - Kerui 2023",
-    "You are so annoying - Kerui 2023", //50
-    "Idk? I know what idk means! Idk why but I will keep saying idk - Kerui 2023",
+    "You are so annoying - Kerui 2023",
+    "Idk? I know what idk means! Idk why but I will keep saying idk - Kerui 2023", //50
     "*Dies when someone says aaHAna* - Aahana 2023",
     "*Exaggerated double eyebrow raise* - Ming Lang 2023",
     "That’s racist - Samik 2023",
@@ -58,8 +57,8 @@ const quotes = [
     "Y’all sweats - Samik 2023",
     "*Insert huge essay here* - Dylan 2023",
     "Danny’s such a baddieeeee - Aanya 2023",
-    "TRAIIIITORRRRRRRRRRRRRR - Oliver 2023", //60
-    "MAGENTAAAAA - Oliver 2023",
+    "TRAIIIITORRRRRRRRRRRRRR - Oliver 2023",
+    "MAGENTAAAAA - Oliver 2023", //60
     "iF yOu sPeLl ApPlEsAuCe, WiTh JuSt A’s, tHeN yOu GeT AAHHHHHHHHHHHH - Oliver 2023",
     "Excuse my pro speeling and grammartation skillz - Lilian 2023",
     "Why doesn't anyone believe that I didn't study for Ignite?! - Jesper 2023",
