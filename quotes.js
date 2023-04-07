@@ -42,6 +42,5 @@ const quotes = [
     "So hopefully he will fix the white issue - Dylan 2023",
     "ThAtS whAT shE sAId! - Ming Lang 2023",
     "ITS LILIAN HERE AND I SAY BALLS ARE NOT TASTY - Lilian 2023",
-    "Yes sire! - Ming Lang 2023"
-    "I am no longer innocent! - Kerui Yang 2023"
+    "Yes sire! - Ming Lang 2023",
     ];
