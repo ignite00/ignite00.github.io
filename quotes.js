@@ -17,7 +17,7 @@ const quotes = [
     "a Hee hee heee heee ha ha ha aha heee haha - Samik 2023",
     "I LIKE BALLS - Lukas 2023",
     "I like holding balls - Danny 2023",
-    "我喜欢吃球 (I like to eat balls) - Kerui 2023",
+    "我喜欢吃球 (I eat balls) - Kerui 2023",
     "Samik says I malless men - Kerui 2023",
     "It’s white, sticky and tasty - Ming Lang 2023",
     "我喜欢吃大屁股 - Mehrad 2023",
@@ -42,4 +42,5 @@ const quotes = [
     "So hopefully he will fix the white issue - Dylan 2023",
     "ThAtS whAT shE sAId! - Ming Lang 2023",
     "ITS LILIAN HERE AND I SAY BALLS ARE NOT TASTY - Lilian 2023",
+    "Yes sire! - Ming Lang 2023"
     ];
