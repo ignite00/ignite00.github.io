@@ -66,4 +66,5 @@ const quotes = [
     "Whaaaaaaaaaaaaaaat? - Kerui 2023",
     "*Sees 688 one more time* *Dies* - Kerui 2023",
     "Stop playing the mind-numbingly boring road car game! - Everyone to Lukas",
+    "Coding this was PAAAAAIIIIINNNNNN! - Kerui"
     ];
