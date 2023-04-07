@@ -31,7 +31,7 @@ const quotes = [
     "And I’m chilling here with my 13.5 GPA :D - Lilian 2023", //30
     "SAY THAT AGAIN AND I WILL MURDER YOU SO BAD THAT YOU WON'T EVER BE BLIND AGAIN. YOU’LL BE FREAKIN DEAD - Lilian 2023",
     "YOu KnoW WhAT THaT souNDS liKe? A YOU PROBLEM! - Mostly Lilian. but also nearly everyone in 700 2023",
-    "TOFFEE IS DA BEST -Lilian 2023",
+    "TOFFEE IS DA BEST - Lilian 2023",
     "My hair just sticks up - Yiming",
     "#itspanglangnow - Sophie 2023",
     "Nope. No. Fine… maybe. Nah… - Sophie 2023",
