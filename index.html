@@ -123,7 +123,7 @@ var birthdays = [
 function getbirthdays() {
 prefix = "G"
 page = 1
-document.getElementByTagName("body").innerHTML = birthdays
+document.getElementById('body').innerHTML = birthdays
 }
 	
 
@@ -273,7 +273,9 @@ function viewChangelog() {
 prefix = "F"
 page = 1
 let temp = ""
+document.getElementById('body').innerHTML = changelog
 }
+
  
 
 for (let i = 0; i < changelog.length; i++) {
