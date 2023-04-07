@@ -4,7 +4,7 @@ const quotes = [
     "I coached my yr 5 friend last year through 4 boyfriends and 4 break ups - Lilian 2023",
     "Angela chair guy - Aanya 2023",
     "Like I spawned and everyone was like sAmIkKkKkK!!! - Samik 2023",
-    "I got an A? SHEEEEEESHHHH! - Kerui Yang 2023",
+    "I got an A? SHEEEEEESHHHH! - Kerui 2023",
     "Danny was called sonic the hedgehog - Lola 2023",
     "#SELF LOVE - Lola 2023",
     "Oh you wanna go kid? - Lilian 2023",
@@ -22,7 +22,7 @@ const quotes = [
     "Samik says I malless men - Kerui 2023",
     "It’s white, sticky and tasty - Ming Lang 2023",
     "我喜欢吃大屁股 - Mehrad 2023",
-    "My name is Terry! not Kerry! - Kerui 2023",
+    "My name is Terry! not Kerui! - Kerui 2023",
     "Guys, I deeply do not care whatsoever if I have roasted u abt ur height. If u felt like this has or will offends u as a joke, pls sthu and know that u r a potato - Samik 2023",
     "Y in da kangaroos… - Samik 2023",
     "OMG NO!! MY GPA IS AT 14.56 BECAUSE I GOT AN A!!!! - Sophie 2023",
@@ -47,7 +47,7 @@ const quotes = [
     "Stop swearing! - Kerui 2023",
     "ITS LILIAN HERE AND I SAY BALLS ARE NOT TASTY - Lilian 2023",
     "Yes sire! - Ming Lang 2023",
-    "Dylan I hate you! - Kerui Yang 2023", //50
+    "Dylan I hate you! - Kerui 2023", //50
     "You are so annoying - Kerui 2023",
     "Idk? I know what idk means! Idk why but I will keep saying idk - Kerui 2023",
     ];
