@@ -68,4 +68,6 @@ const quotes = [
     "Stop playing the mind-numbingly boring road car game! - Everyone to Lukas",
     "Coding this was PAAAAAIIIIINNNNNN! - Kerui 2023",
     "GUYS! ITS A WILD MEHRAD! TAKE A PIC QUICK 📸 - Lola 2023",
+    "UghughggughgughguGUGhgUGhGugH - Nathan 2023",
+    "I’m proud of my B - Linuka 2023",
     ];
