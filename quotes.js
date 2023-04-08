@@ -10,7 +10,7 @@ const quotes = [
     "Oh you wanna go kid? - Lilian 2023",
     "I’m confuzzled - Kerui 2023", //10
     "Lola dreams that Samik licks her toes - Kerui 2023",
-    "Karuna wants to lick Enoch’s feet - Lilian 2023",
+    "Karuna wants to lick Enoch’s feet - Kerui 2023",
     "Kerui is way too messed up - Everyone",
     "I am not innocent, I do know stuff - Kerui 2023",
     "Stop saying that! I copyrighted it - Lilian 2023",
