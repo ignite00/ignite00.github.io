@@ -80,4 +80,5 @@ const quotes = [
     "MEANIE BOMBINIE - Lola 2023",
     "Bro got comebacks from wattpad - Lilian 2023",
     "ChIlL DaH MoOlAH KiDs - Lukas 2023",
+    "I am very sorry for the sin I have commited - Samik 2023"
     ]; 
