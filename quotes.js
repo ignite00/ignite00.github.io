@@ -79,4 +79,5 @@ const quotes = [
     "The madman, he did it - Dylan 2023",
     "MEANIE BOMBINIE - Lola 2023",
     "Bro got comebacks from wattpad - Lilian 2023",
+    "ChIlL DaH MoOlAH KiDs - Lukas 2023",
     ]; 
