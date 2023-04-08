@@ -78,7 +78,9 @@ const quotes = [
     "Apologies - Tyler 2023",
     "The madman, he did it - Dylan 2023",
     "MEANIE BOMBINIE - Lola 2023",
-    "Bro got comebacks from wattpad - Lilian 2023",
+    "Bro got comebacks from wattpad - Lilian 2023",//80
     "ChIlL DaH MoOlAH KiDs - Lukas 2023",
-    "I am very sorry for the sin I have commited - Samik 2023"
+    "I am very sorry for the sin I have commited - Samik 2023",
+    "Did *someone in 700* say *something sus and definitely not something they said*? - Ming Lang 2023",
+    "Did someone just say my name? - Ming Lang 2023",
     ]; 
