@@ -430,7 +430,7 @@ let newQuotesList = []
 suggestQuotesPrompt = prompt("please insert your new quote", "")
 localStorage.setItem("newQuote", JSON.stringify(suggestQuotesPrompt))
 var getQuotes = JSON.parse(localStorage.getItem("newQuote"))
-newQuotesList.push(suggestQuotesPrompt)
+newQuotesList.push("newQuote")
 alert(newQuotesList)
 }
 
