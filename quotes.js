@@ -75,4 +75,5 @@ const quotes = [
     "Bro... - Samik 2023",
     "Nahhhhhh (sarcasm) - Linuka 2023",
     "Tut tut tut tut tut *sigh*, very disappointed in you -Tyler 2023",
+    Screenshot 2023-04-08 16.41.33, "- Ming Lang 2023"
     ];
