@@ -74,4 +74,5 @@ const quotes = [
     "CAN'T BEAT MY 2,1 MUDDA QUACKERS - Samik 2023",
     "Lola: 👹👹👹, Samik: Why are you spamming pics of Mehrad?",
     "Bro... - Samik 2023",
+    "Nahhhhhh (sarcasm) - Linuka 2023",
     ];
