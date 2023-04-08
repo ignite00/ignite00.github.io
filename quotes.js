@@ -77,4 +77,6 @@ const quotes = [
     "Tut tut tut tut tut *sigh*, very disappointed in you -Tyler 2023",
     "Apologies - Tyler 2023",
     "The madman, he did it - Dylan 2023",
+    "MEANIE BOMBINIE - Lola 2023",
+    "Bro got comebacks from wattpad - Lilian 2023",
     ]; 
