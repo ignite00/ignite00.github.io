@@ -427,9 +427,10 @@ function loadData() {
 
 function suggestedQuotes(){
 let newQuotesList = []
-newQuotesList[0] = prompt("please insert your new quote", "")
-localStorage.setItem("newQuote", JSON.stringify("newQuote"))
+suggestQuotesPrompt = prompt("please insert your new quote", "")
+localStorage.setItem("newQuote", JSON.stringify(suggestQuotesPrompt))
 var getQuotes = JSON.parse(localStorage.getItem("newQuote"))
+newQuotesList.push(suggestQuotesPrompt)
 alert(newQuotesList)
 }
 
