@@ -83,5 +83,6 @@ const quotes = [
     "I am very sorry for the sin I have commited - Samik 2023",
     "Did *someone in 700* say *something sus and definitely not something they said*? - Ming Lang 2023",
     "Did someone just say my name? - Ming Lang 2023",
-    "Hopefully I wont get murdered today... Like... I guess there is a chance that I wont die... *gets murdered one second later* - Kerui 2023"
+    "Hopefully I wont get murdered today... Like... I guess there is a chance that I wont die... *gets murdered one second later* - Kerui 2023",
+    "I love being annoying - Kerui 2023"
     ]; 
