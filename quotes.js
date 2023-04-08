@@ -64,7 +64,7 @@ const quotes = [
     "Why doesn't anyone believe that I didn't study for Ignite?! - Jesper 2023",
     "A pastry no greater hath I seen - Samik 2023",
     "Whaaaaaaaaaaaaaaat? - Kerui 2023",
-    "*Sees 688 one more time* *Dies* - Kerui 2023",
+    "*Dies after seeing 688 one more time* - Kerui 2023",
     "Stop playing the mind-numbingly boring road car game! - Everyone to Lukas",
-    "Coding this was PAAAAAIIIIINNNNNN! - Kerui"
+    "Coding this was PAAAAAIIIIINNNNNN! - Kerui",
     ];
