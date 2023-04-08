@@ -1,3 +1,2 @@
 # ignite00.github.io
-Offical website for Class 700
-Because why not?
+Offical website for Class 700 because why not?
