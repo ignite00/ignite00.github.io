@@ -10,7 +10,6 @@ const quotes = [
     "Oh you wanna go kid? - Lilian 2023",
     "I’m confuzzled - Kerui 2023", //10
     "Lola dreams that Samik licks her toes - Kerui 2023",
-    "Karuna wants to lick Enoch’s feet - Kerui 2023",
     "Kerui is way too messed up - Everyone",
     "I am not innocent, I do know stuff - Kerui 2023",
     "Stop saying that! I copyrighted it - Lilian 2023",
@@ -36,7 +35,6 @@ const quotes = [
     "Nope. No. Fine… maybe. Nah… - Sophie 2023",
     "Short people always rage quit lol - Lilian 2023",
     "OMG I’m gonna fail!!! *gets A+* - Everyone in Ignite 2023",
-    "Bruh - Enoch 2023",
     "你不是我的好朋友 - Google Translate 2023",
     "我会送你去见耶稣 - Google Translate 2023", //40
     "I only see one capybara out of like sex - Lilian 2023",
