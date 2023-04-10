@@ -8,7 +8,7 @@ const quotes = [
     "Danny was called sonic the hedgehog - Lola 2023",
     "#SELF LOVE - Lola 2023",
     "Oh you wanna go kid? - Lilian 2023",
-    "I’m confuzzled - Kerui 2023", //10
+    "I’m confuzzled - Kerui 2023", 
     "Lola dreams that Samik licks her toes - Kerui 2023",
     "Kerui is way too messed up - Everyone",
     "I am not innocent, I do know stuff - Kerui 2023",
@@ -17,7 +17,7 @@ const quotes = [
     "a Hee hee heee heee ha ha ha aha heee haha - Samik 2023",
     "I LIKE BALLS - Lukas 2023",
     "I like holding balls - Danny 2023",
-    "我喜欢吃球 (I eat balls) - Kerui 2023", //20
+    "我喜欢吃球 (I eat balls) - Kerui 2023", 
     "It’s white, sticky and tasty - Ming Lang 2023",
     "我喜欢吃大屁股 - Mehrad 2023",
     "My name is Terry! not Kerui! - Kerui 2023",
@@ -36,7 +36,7 @@ const quotes = [
     "Short people always rage quit lol - Lilian 2023",
     "OMG I’m gonna fail!!! *gets A+* - Everyone in Ignite 2023",
     "你不是我的好朋友 - Google Translate 2023",
-    "我会送你去见耶稣 - Google Translate 2023", //40
+    "我会送你去见耶稣 - Google Translate 2023", 
     "I only see one capybara out of like sex - Lilian 2023",
     "Oh sh... - Lilian 2023",
     "So hopefully he will fix the white issue - Dylan 2023",
@@ -46,7 +46,7 @@ const quotes = [
     "Yes sire! - Ming Lang 2023",
     "Dylan I hate you! - Kerui 2023",
     "You are so annoying - Kerui 2023",
-    "Idk? I know what idk means! Idk why but I will keep saying idk - Kerui 2023", //50
+    "Idk? I know what idk means! Idk why but I will keep saying idk - Kerui 2023", 
     "*Dies when someone says aaHAna* - Aahana 2023",
     "*Exaggerated double eyebrow raise* - Ming Lang 2023",
     "That’s racist - Samik 2023",
@@ -56,7 +56,7 @@ const quotes = [
     "*Insert huge essay here* - Dylan 2023",
     "Danny’s such a baddieeeee - Aanya 2023",
     "TRAIIIITORRRRRRRRRRRRRR - Oliver 2023",
-    "MAGENTAAAAA - Oliver 2023", //60
+    "MAGENTAAAAA - Oliver 2023", 
     "iF yOu sPeLl ApPlEsAuCe, WiTh JuSt A’s, tHeN yOu GeT AAHHHHHHHHHHHH - Oliver 2023",
     "Excuse my pro speeling and grammartation skillz - Lilian 2023",
     "Why doesn't anyone believe that I didn't study for Ignite?! - Jesper 2023",
@@ -66,7 +66,7 @@ const quotes = [
     "Stop playing the mind-numbingly boring road car game! - Everyone to Lukas",
     "Coding this was PAAAAAIIIIINNNNNN! - Kerui 2023",
     "GUYS! ITS A WILD MEHRAD! TAKE A PIC QUICK 📸 - Lola 2023",
-    "I’m proud of my B - Linuka 2023", //70
+    "I’m proud of my B - Linuka 2023", 
     "Be scared of Samik, he's short - Lola 2023",
     "CAN'T BEAT MY 2,1 MUDDA QUACKERS - Samik 2023",
     "Lola: 👹👹👹, Samik: Why are you spamming pics of Mehrad?",
@@ -76,7 +76,7 @@ const quotes = [
     "Apologies - Tyler 2023",
     "The madman, he did it - Dylan 2023",
     "MEANIE BOMBINIE - Lola 2023",
-    "Bro got comebacks from wattpad - Lilian 2023",//80
+    "Bro got comebacks from wattpad - Lilian 2023",
     "ChIlL DaH MoOlAH KiDs - Lukas 2023",
     "I am very sorry for the sin I have commited - Samik 2023",
     "Did *someone in 700* say *something sus and definitely not something they said*? - Ming Lang 2023",
@@ -86,7 +86,7 @@ const quotes = [
     "I'm not tall, your just short - Tyler 2023",
     "I have been accused of liking 6 different people in the past week :(, has it become a meme at this point to annoy me? - Kerui 2023",
     "We are in year 7! Not Year 12! - Kerui 2023",
-    "Year 7 is a good year to date - Isabelle 2023",//90
+    "Year 7 is a good year to date - Isabelle 2023",
     "That's BuLlIism! - Everyone in 700 2023",
     "Stop it I don't like it! Everyone in 700 2023"
     ]; 
