@@ -2,7 +2,6 @@
 <head>
 <title>Class 700</title>
 <script src="./quotes.js"></script>
-<script src="./quotes2.js"</script></script>
 <link rel="icon" 
      type="image/png" 
      href="images/capybara.png"> 
@@ -185,9 +184,7 @@ document.getElementById('body').innerHTML = pageData[page - 1]
 prefix = ""
 page = pageData.length
 document.getElementById('body').innerHTML = pageData[page - 1]
-} else if (prefix == "H") {
-	prefix = ""
-}
+} 
 }
 
 
@@ -308,11 +305,7 @@ temp += "<p class='p'>" + changelog[i] + "</p><br>"
 document.getElementById('body').innerHTML = temp
 }
 
-function viewQuotesMixed() {
-prefix = "H"
-page = 1
-document.getElementById('body').innerHTML = "<h1 class='h1'>Random Quote</h1><br><p class='p' id='quote'>\"" + randomQuotes() 
-}
+
 
 function answerA() {
 answers[page - 1] = "A"
@@ -400,10 +393,6 @@ function randomQuote() {
 return quotes[quotes.length * Math.random() | 0]
 }
 
-function randomQuotes() {
-const randomQuotesMixed = quotes.concat(quotes2)
-return randomQuotesMixed[randomQuotesMixed.length * Math.random() | 0]
-}
 
 
 var previousSins = 0
