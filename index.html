@@ -267,7 +267,7 @@ prefix = "D"
 page = 1
 counter[0] = 0
 for (let i = 0; i < correctAnswers.length; i++) {
-if (answers[i] == correctAnswers[i]) {
+if (answers[i] == correctAnswers[i]) {es
 counter[0] += 1
 }
 }
@@ -283,7 +283,7 @@ sins += correctAnswers.length - counter[0]
 function viewQuotes() {
 prefix = "E"
 page = 1
-document.getElementById('body').innerHTML = "<h1 class='h1'>Random Quote</h1><br><p class='p' id='quote'>\"" + randomQuote() 
+document.getElementById('body').innerHTML = "<h1 class='h1'>Random Quote</h1><br><p class='p' id='quote'>" + randomQuote() + 
 }
 
 
