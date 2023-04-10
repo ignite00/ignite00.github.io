@@ -89,4 +89,6 @@ const quotes = [
     "I have been accused of liking 6 different people in the past week :(, has it become a meme at this point to annoy me? - Kerui 2023",
     "We are in year 7! Not Year 12! - Kerui 2023",
     "Year 7 is a good year to date - Isabelle 2023",//90
+    "That's BuLlIism! - Everyone in 700 2023",
+    "Stop it I don't like it! Everyone in 700 2023"
     ]; 
