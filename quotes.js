@@ -92,4 +92,8 @@ const quotes = [
     "I hate Kerui. He plays a bad instrument - Jesper 2023",
     "Jesper is lazy, selfish, stupid and single-minded - Kerui 2023",
     "Oh no! Whatever shall I do - Dylan 2023",
+    "After a long while being in the same class, still no one asked. - Ming Lang 2023",
+    "But I didn’t ask about you not having asked! - Oliver 2023",
+    "*Howling like a monkey* - Oliver 2023",
+    "Bo’lle o’ wa’er - Kerui 2023",
     ]; 
