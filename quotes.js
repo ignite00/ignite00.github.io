@@ -88,5 +88,5 @@ const quotes = [
     "We are in year 7! Not Year 12! - Kerui 2023",
     "Year 7 is a good year to date - Isabelle 2023",
     "That's BuLlIism! - Everyone in 700 2023",
-    "Stop it I don't like it! Everyone in 700 2023"
+    "Stop it I don't like it! - Everyone in 700 2023"
     ]; 
