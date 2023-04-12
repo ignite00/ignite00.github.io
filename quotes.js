@@ -88,7 +88,7 @@ const quotes = [
     "We are in year 7! Not Year 12! - Kerui 2023",
     "Year 7 is a good year to date - Isabelle 2023",
     "That's BuLlYiSm! - Everyone in 700 2023",
-    "Stop it I don't like it! - Everyone in 700 2023",
+    "Stop it, I don't like it! - Everyone in 700 2023",
     "I hate Kerui. He plays a bad instrument - Jesper 2023",
     "Jesper is lazy, selfish, stupid and single-minded - Kerui 2023",
     "Oh no! Whatever shall I do - Dylan 2023",
