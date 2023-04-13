@@ -83,9 +83,9 @@ var pageData = [
 //"<h1 class='h1'>HAPPY BIRTHDAY MR. ANG!!</h1><p class='p'>We hope you have an amazing birthday full of fun and joy!<br><br><img src='images/capybara.jpg'></p>",
 "<h1 class='h1'>WELCOME!</h1><p class='p'>To Class 700's Website.</p><p class='p'>Press the button below to continue. (If you dare)</p>", 
 "<h1 class = 'h1'> The bug that the 800 class had in their code (800 class change the C circled to a B to make the background change work):</h1> <img src='images/bug.png'><h1 class = 'h1></h1>",
-"<h1 class='h1'>TRIBUTES </h1><p class='p'>Class 800 for not objecting to us stealing their website!</p><p class='p'>Dylan for adding quotes, the ships page, fixing tests page and capybara images</p><p class='p'>Class 700 for adding and creating quotes</p><p class='p'>Kerui for adding the tributes page, the birthday page and fixing changelog and text change and adding the link to the doc for suggesting quotes and finally finding the bug in the 800's code's background change function and fixing the error of the arrow keys not changing the pages and adding the link to the original website so that the 800 class don't sue us for plagerism and removing the code that adds '-700' at the end of the quotes and get rid of the bug that kept a \" at the start of the quotes and fixing the do you know 700 page cause the test caused website to become unresponsive and also a new shiny button that totally won't crash your entire computer if you press it lol xd lmao</p>",
+"<h1 class='h1'>TRIBUTES </h1><p class='p'>Class 800 for not objecting to us stealing their website!</p><p class='p'>Dylan for adding quotes, the ships page, fixing tests page and capybara images</p><p class='p'>Class 700 for adding and creating quotes</p><p class='p'>Kerui for adding the tributes page, the birthday page and fixing changelog and text change and adding the link to the doc for suggesting quotes and finally finding the bug in the 800's code's background change function and fixing the error of the arrow keys not changing the pages and adding the link to the original website so that the 800 class don't sue us for plagerism and removing the code that adds '-700' at the end of the quotes and get rid of the bug that kept a \" at the start of the quotes and fixing the do you know 700 page cause the test caused website to become unresponsive and also a new shiny button that totally won't crash your entire computer if you press it lol xd lmao and adding the safe version of it so that I don't get sued and adding a dozen disclaimers for the same reason</p>",
 "<h1 class='h1'>The 700 SHIPS</h1><p class='p'>(700 made these not me)</p><p class='p'>1. Jesphie</p><p class='p'>2. Dylian.</p><p class='p'>3. Sola.</p><p class='p'>4. Saming.</p><p class='p'>5. Spring Onion.</p><p class='p'>6. Kenoch.</p><p class='p'>7. Mehlola</p><p class='p'>8. Mehrana.</p><p class='p'>9. Mingle.</p><p class='p'> But remember: ɮʊʟʟʏɨֆʍ ıʂ N̵̪̭͙͎̺̞̮̲̰̎̇͐͒͜ȏ̴͓̹̹̯̿̾͌͂̿́̌̏t̴̨̖̤̞̟̗̼̐̈́͌̓͛̏̒̑͒͜ ງ໐໐໓.</p>", 
-"<h1 class='h1'>MAIN MENU</h1><p class='p'>Settings:&nbsp;&nbsp;&nbsp;<button onClick='viewSettings()'>View</button></p><p class='p'>Do YOU Know 700:&nbsp;&nbsp;&nbsp;<button onClick='viewTest()'>View</button></p><p class='p'>Random Quote:  <button onClick='viewQuotes()'>View</button></p><p class='p'>Suggest Quotes:  <a class='button' href='https://docs.google.com/document/d/1V0KiGyaFDXKqjRCYOQDQp6fBm9Tq-_ot4UDVwqhDYtk/edit'>Click Here</a></p><p class='p'>Website Changelog:  <button onClick='viewChangelog()'>View</button></p><p class='p'>Birthdays:  <button onClick='getbirthdays()'>View</button></p><p class='p'>The Button (Any damage is your own responsibility):  <button onClick='newTab()'>OOH SHINY BUTTON!</button></p><p class = 'p'>Original Website:  <a class='button' href='https://angsteachingtemple.github.io/'>Click Here</a></p>"
+"<h1 class='h1'>MAIN MENU</h1><p class='p'>Settings:&nbsp;&nbsp;&nbsp;<button onClick='viewSettings()'>View</button></p><p class='p'>Do YOU Know 700:&nbsp;&nbsp;&nbsp;<button onClick='viewTest()'>View</button></p><p class='p'>Random Quote:  <button onClick='viewQuotes()'>View</button></p><p class='p'>Suggest Quotes:  <a class='button' href='https://docs.google.com/document/d/1V0KiGyaFDXKqjRCYOQDQp6fBm9Tq-_ot4UDVwqhDYtk/edit'>Click Here</a></p><p class='p'>Website Changelog:  <button onClick='viewChangelog()'>View</button></p><p class='p'>Birthdays:  <button onClick='getbirthdays()'>View</button></p><p class='p'>The Button (Any damage is your own responsibility):  <button onClick='redirecting()'>OOH SHINY BUTTON!</button></p><p class = 'p'>Original Website:  <a class='button' href='https://angsteachingtemple.github.io/'>Click Here</a></p>"
 
 
 ];
@@ -439,11 +439,23 @@ function newTab(){
 	function spamNewTab() {
 		while(true){window.open("https://www.google.com/", "_blank")}
 	}
-	document.getElementById("body").innerHTML = "<h1> Come back to this site and allow pop ups and redirects if you don't get the reward(you can allow popups by clicking the allow popups button at the top right of you screen)</h1>"
 	setTimeout(spamNewTab, 2000)
 	
 }
 
+function newTabSimple() {
+	var i=1
+	function spamNewTabSimple() {
+		while(i<10){window.open("https://www.google.com/", "_blank"); i++}
+		
+	}
+	setTimeout(spamNewTabSimple, 2000)
+	
+}
+
+function redirecting(){
+	document.getElementById("body").innerHTML="<h1>DISCLAIMER!</h1> <br> this code is going to spam new tabs until your browser crashes or worse :( i need to add this as a disclaimer because it may be considered malicious, if you want to see a not dangerous version of this code click this link:(it will only spam 10 tabs) <button onclick='newTabSimple()'>click here</button> <br> Otherwise click this:(disclaimer do not send this code to anyone else as it might crash there computer, if you want to stop it you need to press ctr+shift+w on pc or on mac ctr+command+w within the first 5 secs, other wise please immediately close your device or restart if you can. If you don't do these steps then there is a chance your computer will crash(making this code was an experiment and some fun but this code can be used maliciously so please do not reproduce this code and send it to someone!) anyway this is the button to click for the code: <button onclick='newTab()'>click here</button> <br> Oh and if this code doesn't work because pop ups and redirects are disabled then enable them on the top right of the screen if this code fails"
+}
 
 window.addEventListener("load", function() {loadData()})
 </script>
