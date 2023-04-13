@@ -96,4 +96,5 @@ const quotes = [
     "But I didn’t ask about you not having asked! - Oliver 2023",
     "*Howling like a monkey* - Oliver 2023",
     "Bo’lle o’ wa’er - Kerui 2023",
+    "Can I borrow the sharpener... again? - Tyler 2023",
     ]; 
