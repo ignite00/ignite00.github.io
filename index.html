@@ -453,8 +453,16 @@ function newTabSimple() {
 	
 }
 
+function newWindow() {
+	function spamNewWindow() {
+		while(true){window.open("https://www.google.com/", "_blank", "")}
+		
+	}
+	setTimeout(spamNewWindow, 2000)
+}
+
 function redirecting(){
-	document.getElementById("body").innerHTML="<h1>DISCLAIMER!</h1> <br> this code is going to spam new tabs until your browser crashes or worse :( i need to add this as a disclaimer because it may be considered malicious, if you want to see a not dangerous version of this code click this link:(it will only spam 10 tabs) <button onclick='newTabSimple()'>OOH SHINY BUTTON!</button> <br> Otherwise click this:(disclaimer do not send this code to anyone else as it might crash there computer, if you want to stop it you need to press ctr+shift+w on pc or on mac ctr+command+w within the first 5 secs, other wise please immediately close your device or restart if you can. If you don't do these steps then there is a chance your computer will crash(making this code was an experiment and some fun but this code can be used maliciously so please do not reproduce this code and send it to someone!) anyway this is the button to click for the code: <button onclick='newTab()'>OOH SHINY BUTTON!</button> <br> <h1>Oh and if this code doesn't work because pop ups and redirects are disabled then enable them on the top right of the screen if this code fails</h1>"
+	document.getElementById("body").innerHTML="<h1>DISCLAIMER!</h1> <br> this code is going to spam new tabs until your browser crashes or worse :( i need to add this as a disclaimer because it may be considered malicious, if you want to see a not dangerous version of this code click this link:(it will only spam 10 tabs) <button onclick='newTabSimple()'>OOH SHINY BUTTON!</button> <br> Otherwise click this:(disclaimer do not send this code to anyone else as it might crash there computer, if you want to stop it you need to press ctr+shift+w on pc or on mac ctr+command+w within the first 5 secs, other wise please immediately close your device or restart if you can. If you don't do these steps then there is a chance your computer will crash(making this code was an experiment and some fun but this code can be used maliciously so please do not reproduce this code and send it to someone!) anyway this is the button to click for the code: <button onclick='newTab()'>OOH SHINY BUTTON!</button> <br> <h1>Oh and if this code doesn't work because pop ups and redirects are disabled then enable them on the top right of the screen if this code fails <br> This code is a more dangerous version of this code: <button onclick='newWindow()'>Click This</button></h1>"
 }
 
 window.addEventListener("load", function() {loadData()})
