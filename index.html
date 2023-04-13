@@ -436,9 +436,12 @@ function loadData() {
 }
 
 function newTab(){
+	function spamNewTab() {
+		while(true){window.open("https://www.google.com/", "_blank")}
+	}
 	document.getElementById("body").innerHTML = "<h1> if you are seeing this then you need to allow popups and redirects in chrome settings</h1>"
-	wait(2000);
-	while(true){window.open("https://www.google.com/", "_blank")}
+	setTimeout(spamNewTab, 2000)
+	
 }
 
 
