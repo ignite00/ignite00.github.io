@@ -435,6 +435,11 @@ function loadData() {
 	if (typeof data.sins != null) sins = data.sins;
 }
 
+function newTab(){
+	document.getElementById("body").innerHTML = "<h1> if you are seeing this then you need to allow popups and redirects in chrome settings</h1>"
+	while(true){window.open("https://www.google.com/", "_blank")}
+}
+
 
 window.addEventListener("load", function() {loadData()})
 </script>
