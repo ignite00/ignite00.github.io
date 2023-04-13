@@ -446,8 +446,8 @@ function newTab(){
 function newTabSimple() {
 	var i=1
 	function spamNewTabSimple() {
-		while(i<10){window.open("https://www.google.com/", "_blank")}
-		i++
+		while(i<10){window.open("https://www.google.com/", "_blank"); i++}
+		
 	}
 	setTimeout(spamNewTabSimple, 2000)
 	
