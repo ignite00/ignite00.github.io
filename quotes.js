@@ -100,5 +100,4 @@ const quotes = [
     "Why are there big flying sheep in the sky? - Ming Lang 2023",
     "I don't press things if there is no ✨OOH SHINY BUTTON✨ - Lilian 2023",
     "THAT'S CALLED EXLUSION - Lilian 2023",
-
     ]; 
