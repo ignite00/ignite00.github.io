@@ -100,4 +100,5 @@ const quotes = [
     "I don't press things if there is no ✨OOH SHINY BUTTON✨ - Lilian 2023",
     "THAT'S CALLED EXLUSION - Lilian 2023",
     "It's like maths, except I can't fail - Dylan 2023",
+    "I'm boredd - Lilian 2023",
     ]; 
