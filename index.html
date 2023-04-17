@@ -75,6 +75,7 @@ var correctAnswers = ["C", "B", "D", "B", "A"]
 var counter = []
 var answers = []
 var sins = 0
+var easter = 1
 var back = "A"
 var text = "A"
 var page = 1
@@ -223,17 +224,18 @@ text = "A"
 }
 }
 
-function changeBackground() {
-
 function easterEggs() {
-var easter = 1
 if(easter==30){
 easterEgg=document.getElementById("body")
 easterEgg.style.backgroundImage= "url(images/MingLang.png)"
 }else{
-easter=easter+1
+easter++
 }
 }	
+
+function changeBackground() {
+
+
 
 if (back == "A") {
 //EDIT LATER FIX FIX FIX FIX FIX
@@ -248,7 +250,7 @@ back = "E"
 back = "A"
 } 
 
-easterEggs()
+
 
 }
 
