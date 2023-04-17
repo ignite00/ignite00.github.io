@@ -226,12 +226,12 @@ text = "A"
 
 function easterEggs() {
 if(easter==30){
-easter = 0
 var back = "F"
 }else{
 easter++
 }
 }	
+
 
 function changeBackground() {
 
@@ -257,6 +257,9 @@ back = "A"
 }
 
 easterEggs()
+if(easter>=31){
+	easter = 0
+}
 
 }
 
