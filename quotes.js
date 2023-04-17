@@ -84,7 +84,7 @@ const quotes = [
     "I love being annoying - Kerui 2023",
     "I'm not tall, your just short - Tyler 2023",
     "I have been accused of liking 6 different people in the past week :(, has it become a meme at this point to annoy me? - Kerui 2023",
-    "We are in year 7! Not Year 12! - Kerui 2023",
+    "We are in Year 7, not Year 12! - Kerui 2023",
     "Year 7 is a good year to date - Isabelle 2023",
     "That's BuLlYiSm! - Everyone in 700 2023",
     "Stop it, I don't like it! - Everyone in 700 2023",
