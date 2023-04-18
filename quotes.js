@@ -101,4 +101,5 @@ const quotes = [
     "THAT'S CALLED EXLUSION - Lilian 2023",
     "It's like maths, except I can't fail - Dylan 2023",
     "I'm boredd - Lilian 2023",
+    "*Does something so pointless that nobody else would do* Cus why not I guess... - Dylan 2023"
     ]; 
