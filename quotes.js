@@ -103,4 +103,5 @@ const quotes = [
     "I'm boredd - Lilian 2023",
     "*Does something so pointless that nobody else would do* Cus why not I guess... - Dylan 2023",
     "CAUGHT IN 4K - Samik 2023",
+    "I'll do it tomorrow cause I am lazy - Kerui 2023",
     ]; 
