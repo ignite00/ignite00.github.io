@@ -104,7 +104,7 @@ const quotes = [
     "*Does something so pointless that nobody else would do* Cus why not I guess... - Dylan 2023",
     "CAUGHT IN 4K - Samik 2023",
     "I'll do it tomorrow cause I am lazy - Kerui 2023",
-    "WHAT SCHOOL DID THEY GO TO?! Facebook time ;) - Lilian 2023",
+    "WHAT SCHOOL DID THEY GO TO?? Facebook time ;) - Lilian 2023",
     "I love how I'm friends with Jesper, Kerui and Lilian but they all seem to despise each other - Dylan 2023",
     "I have the memory of Dory - Lilian 2023",
     "Follow the 20-20-20 rule. After 20 minutes, stare at something 20 feet away and go into the forest for 20 years - Kerui 2023",
