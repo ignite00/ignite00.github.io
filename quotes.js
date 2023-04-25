@@ -110,4 +110,8 @@ const quotes = [
     "Follow the 20-20-20 rule. After 20 minutes, stare at something 20 feet away and go into the forest for 20 years - Kerui 2023",
     "My backyard looks like a pillow has been burst onto it - Kerui 2023",
     "I suck at coding, just like you suck at editing KERUI - Dylan 2023",
+    "Why are there big flying sheep in the sky? - Ming Lang 2023",
+    "CANCEL HIM/HER! - Ming Lang 2023",
+    "CANCEL THOSE ANDROMEDAN PAPAYAS - Samik 2023",
+    "Oh river those mother quakers - Samik 2023",
     ]; 
