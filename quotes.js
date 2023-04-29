@@ -115,4 +115,5 @@ const quotes = [
     "CANCEL THOSE ANDROMEDAN PAPAYAS - Samik 2023",
     "Oh river those mother quakers - Samik 2023",
     "I saw bigger though 😋😋😋 - Lola 2023",
+    "That sounds like a new quote! - Dylan, every 0.00382917284 seconds, 2023",
     ]; 
