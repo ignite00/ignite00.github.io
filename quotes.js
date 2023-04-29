@@ -121,4 +121,5 @@ const quotes = [
     "Dylan 有时候很烦，但是 Kerui 更烦, Lilian最烦 - Jesper 2023",
     "Who's the idiot now Samik - Lola 2023",
     "Am I scary - Lilian 2023",
+    "你为什么要翻译这个你这个白痴 - Jesper 2023",
     ]; 
