@@ -117,4 +117,6 @@ const quotes = [
     "I saw bigger though 😋😋😋 - Lola 2023",
     "That sounds like a new quote! - Dylan, every 0.00382917284 seconds, 2023",
     "OMG THANK YOU GIRAFFE AND PIGEON - Lilian 2023",
+    "Espie Van Hoosejick with that sigma male top g giga chad plays - Samik 2023",
+    
     ]; 
