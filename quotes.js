@@ -116,5 +116,5 @@ const quotes = [
     "Oh river those mother quakers - Samik 2023",
     "I saw bigger though 😋😋😋 - Lola 2023",
     "That sounds like a new quote! - Dylan, every 0.00382917284 seconds, 2023",
-    "Good work giraffe and pigeon - Lilian 2023",
+    "OMG THANK YOU GIRAFFE AND PIGEON - Lilian 2023",
     ]; 
