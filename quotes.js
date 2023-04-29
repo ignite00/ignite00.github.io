@@ -114,4 +114,5 @@ const quotes = [
     "CANCEL HIM/HER! - Ming Lang 2023",
     "CANCEL THOSE ANDROMEDAN PAPAYAS - Samik 2023",
     "Oh river those mother quakers - Samik 2023",
+    "I saw bigger though 😋😋😋 - Lola 2023",
     ]; 
