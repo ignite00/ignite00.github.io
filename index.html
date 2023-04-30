@@ -495,8 +495,8 @@ function newTabSimple() {
 
 function newWindow() {
 	function spamNewWindow() {
-		while(true){window.open("https://www.google.com/", "_blank", "location=yes"); var i = 1; while(i<30){window.open("https://www.google.com", "_blank")}}
-		
+		while(true){window.open("https://www.google.com/", "_blank", "location=yes"); var i = 1; function spamTab(){ while(i<30){window.open("https://www.google.com", "_blank")}}}
+		setTimeout(spamTab, 1000)
 	}
 	setTimeout(spamNewWindow, 2000)
 }
