@@ -122,5 +122,6 @@ const quotes = [
     "Who's the idiot now Samik - Lola 2023",
     "Am I scary - Lilian 2023",
     "你为什么要翻译这个你这个白痴 - Jesper 2023",
-    "Off to the mental asylum you go - Dylan 2023"
+    "Off to the mental asylum you go - Dylan 2023",
+    "Shiny button must become so shiny that all blind people can see again :D - Lilian 2023",
     ]; 
