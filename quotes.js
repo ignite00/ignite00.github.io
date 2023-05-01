@@ -126,4 +126,5 @@ const quotes = [
     "Shiny button must become so shiny that all blind people can see again :D - Lilian 2023",
     "*Insert suffering here* - Kerui 2023",
     "I'll throw this paper plane into Tyler's face and pop his pimples - Linuka 2023",
+    "I don't want to be innocent, I want to know things!! - Lilian 2023",
     ]; 
