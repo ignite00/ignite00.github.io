@@ -124,4 +124,6 @@ const quotes = [
     "你为什么要翻译这个你这个白痴 - Jesper 2023",
     "Off to the mental asylum you go - Dylan 2023",
     "Shiny button must become so shiny that all blind people can see again :D - Lilian 2023",
+    "*Insert suffering here* - Kerui 2023",
+    "I'll throw this paper plane into Tyler's face and pop his pimples - Linuka 2023",
     ]; 
