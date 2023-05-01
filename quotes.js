@@ -127,5 +127,5 @@ const quotes = [
     "*Insert suffering here* - Kerui 2023",
     "I'll throw this paper plane into Tyler's face and pop his pimples - Linuka 2023",
     "I don't want to be innocent, I want to know things!! - Lilian 2023",
-    "Freedon! That little piece of slime will no longer darken the world no more! Stupid Lilian - Kerui 2023",
+    "Freedom! That little piece of slime will no longer darken the world no more! Stupid Lilian - Kerui 2023",
     ]; 
