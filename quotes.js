@@ -134,6 +134,5 @@ const quotes = [
     "Samik: Lilian is as small as an ant, Lilian: Barely",
     "Blummin stars and skies I hate Keru and Dylan - Lilian 2023",
     "I wanna be a single Pringle - Lola 2023",
-    "I LOVE LOLA - Supposedly Samik 2023",
     "I need more emotional support :9, I read more of the Future Girl - Kerui 2023",
     ]; 
