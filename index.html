@@ -96,13 +96,13 @@
 <button id="previous" onClick="previousPage()">Back</button>
 <span class='span' id="page">1</span>
 <button id="next" onClick="nextPage()">Next</button>
-<p class="p" id="sincont">FAILS: <span id="sins"class ="span">0</span></p>
+<p class="p" id="sincont">FAILS: <span id="fails"class ="span">0</span></p>
 </body>
 <script>
 var correctAnswers = ["C", "B", "D", "B", "A"]
 var counter = []
 var answers = []
-var sins = 0
+var fails = 0
 var easter = 0
 var back = "A"
 var text = "A"
@@ -309,7 +309,7 @@ document.getElementById('body').innerHTML = "<h1 class='h1'>TEST RESULTS</h1><p 
 } else {
 document.getElementById('body').innerHTML = "<h1 class='h1'>TEST RESULTS</h1><p class='p'>You got " + (correctAnswers.length - counter[0]) + " of the answers wrong. This is SACRILEGE. You are being hunted down as we speak.<br>+" + (correctAnswers.length - counter[0]) + " Fails.</p>"
 }
-sins += correctAnswers.length - counter[0]
+fails += correctAnswers.length - counter[0]
 }
 
 function viewQuotes() {
@@ -435,17 +435,17 @@ return quotes[quotes.length * Math.random() | 0]
 
 
 
-var previousSins = 0
+var previousfails = 0
 setInterval(function () {
 document.getElementById('page').innerHTML = prefix + page
-if (previousSins < sins) {
-updateSins()
+if (previousfails < fails) {
+updatefails()
 }
-previousSins = sins
+previousfails = fails
 }, 10);
 
-function updateSins() {
-document.getElementById('sins').innerHTML = sins
+function updatefails() {
+document.getElementById('fails').innerHTML = fails
 saveData()
 }
 
@@ -464,7 +464,7 @@ window.addEventListener("keydown", function(event) {
 
 function saveData() {
 	var data = {
-		sins: sins
+		fails: fails
 	}
 	
 	localStorage.setItem("angData", JSON.stringify(data))
@@ -472,7 +472,7 @@ function saveData() {
 
 function loadData() {
 	var data = JSON.parse(localStorage.getItem("angData"));
-	if (typeof data.sins != null) sins = data.sins;
+	if (typeof data.fails != null) fails = data.fails;
 }
 
 function newTab(){
