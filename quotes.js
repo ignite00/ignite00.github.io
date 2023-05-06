@@ -132,4 +132,5 @@ const quotes = [
     "*Jesper says he is dumb * Takes one to know one, an amateur can't recognise an expert, only an expert can recognise the amateur - Kerui",
     "nOt nEcCeSaRiLy - Lilian 2023",
     "Samik: Lilian is as small as an ant, Lilian: Barely",
+    "Blummin stars and skies I hate Kerui - Lilian 2023",
     ]; 
