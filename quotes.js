@@ -133,4 +133,6 @@ const quotes = [
     "nOt nEcCeSaRiLy - Lilian 2023",
     "Samik: Lilian is as small as an ant, Lilian: Barely",
     "Blummin stars and skies I hate Kerui - Lilian 2023",
+    "I wanna be a single Pringle - Lola 2023",
+    "I LOVE LOLA - Supposedly Samik 2023",
     ]; 
