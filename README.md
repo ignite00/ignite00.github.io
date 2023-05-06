@@ -66,4 +66,4 @@ Class 700
 
 
 
-"The madman, he did it" - Dylan 2023
+QUOTE OF THE "WHATEVER": "The madman, he did it" - Dylan 2023
