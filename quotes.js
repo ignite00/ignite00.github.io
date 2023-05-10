@@ -135,4 +135,8 @@ const quotes = [
     "Blummin stars and skies I hate Keru and Dylan - Lilian 2023",
     "I wanna be a single Pringle - Lola 2023",
     "I need more emotional support :9, I read more of the Future Girl - Kerui 2023",
+    "我会吃你的乌龟 - Lilian 2023",
+    "我会吃你的狗 - Lilian 2023",
+    "*Hysterical hyena laughing* - Aanya 2023",
+    "I ain't doing that, I need to find a way to piss - Kerui 2023",
     ]; 
