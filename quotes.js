@@ -139,5 +139,5 @@ const quotes = [
     "我会吃你的狗 - Lilian 2023",
     "*Hysterical hyena laughing* - Aanya 2023",
     "I ain't doing that, I need to find a way to piss - Kerui 2023",
-    "Ching Chong means Please in chinese... Doesn't it? - Samik 2023",
+    "Ching Chong means please in Chinese... Doesn't it? - Samik 2023",
     ]; 
