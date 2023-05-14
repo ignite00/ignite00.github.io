@@ -140,4 +140,5 @@ const quotes = [
     "*Hysterical hyena laughing* - Aanya 2023",
     "I ain't doing that, I need to find a way to piss - Kerui 2023",
     "Ching Chong means please in Chinese... Doesn't it? - Samik 2023",
+    "Special thanks to Kerui for being gullible - Dylan 2023",
     ]; 
