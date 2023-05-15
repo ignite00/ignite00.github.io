@@ -143,4 +143,6 @@ const quotes = [
     "Special thanks to Kerui for being gullible - Dylan 2023",
     "If I get below 13 GPA I will be happy lol - Lilian 2023",
     "My name is Lillian not Lilian - Lilian 2023",
+    "Keep it PG - Kerui 2023",
+    "You go girl!! - Kerui 2023",
     ]; 
