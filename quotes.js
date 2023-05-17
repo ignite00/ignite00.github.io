@@ -145,4 +145,10 @@ const quotes = [
     "My name is Lillian not Lilian - Lilian 2023",
     "Keep it PG - Kerui 2023",
     "You go girl!! - Kerui 2023",
+    "CHING CHONG 🙏🙏🙏🙏🙏🙏 - Samik 2023",
+    "Yiming is such a material girllll!!!- Samik 2023",
+    "That’s a quote right there - Dylan 2023",
+    "Tweetus deletus - Oliver 2023",
+    "You sound like a movie - Jesper 2023",
+    "Ah ha ha ha ha - Aysan 2023",
     ]; 
