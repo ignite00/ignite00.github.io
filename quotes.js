@@ -129,7 +129,7 @@ const quotes = [
     "I don't want to be innocent, I want to know things!! - Lilian 2023",
     "Freedom! That little piece of slime will no longer darken the world no more! Stupid Lilian - Kerui 2023",
     "I am good, you are bad, I like making you feel sad - Yiming/Jesper 2023",
-    "*Jesper says he is dumb * Takes one to know one, an amateur can't recognise an expert, only an expert can recognise the amateur - Kerui",
+    "*Jesper says he is dumb* Takes one to know one, an amateur can't recognise an expert, only an expert can recognise the amateur - Kerui",
     "nOt nEcCeSaRiLy - Lilian 2023",
     "Samik: Lilian is as small as an ant, Lilian: Barely",
     "Blummin stars and skies I hate Keru and Dylan - Lilian 2023",
