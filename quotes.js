@@ -151,4 +151,5 @@ const quotes = [
     "Tweetus deletus - Oliver 2023",
     "You sound like a movie - Jesper 2023",
     "Ah ha ha ha ha - Aysan 2023",
+    "They (Jesper, Lilian, Samik, Linuka) are all drunkards and maniacs! - Tyler 2023",
     ]; 
