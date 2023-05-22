@@ -153,4 +153,5 @@ const quotes = [
     "Ah ha ha ha ha - Aysan 2023",
     "They (Jesper, Lilian, Samik, Linuka) are all drunkards and maniacs! - Tyler 2023",
     "I’m black and I have glasses - Samik 2023",
+    "Bro is hard when he sees Linuka - Samik 2023",
     ]; 
