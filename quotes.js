@@ -155,4 +155,5 @@ const quotes = [
     "I’m black and I have glasses - Samik 2023",
     "Bro is hard when he sees Linuka - Samik 2023",
     "Are you assuming their colour?! - Kerui 2023",
+    "I just did 7 years of studying at 10pm - Lukas 2023",
     ]; 
