@@ -156,4 +156,6 @@ const quotes = [
     "Bro is hard when he sees Linuka - Samik 2023",
     "Are you assuming their colour?! - Kerui 2023",
     "I just did 7 years of studying at 10pm - Lukas 2023",
+    "I see in soft focus lighting all the time - Kerui 2023",
+    "Don't abuse me; I abuse substances - Kerui 2023"
     ]; 
