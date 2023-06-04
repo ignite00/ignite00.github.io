@@ -157,5 +157,10 @@ const quotes = [
     "Are you assuming their colour?! - Kerui 2023",
     "I just did 7 years of studying at 10pm - Lukas 2023",
     "I see in soft focus lighting all the time - Kerui 2023",
-    "Don't abuse me; I abuse substances - Kerui 2023"
+    "Don't abuse me; I abuse substances - Kerui 2023",
+    "I am pissed that I got an A in maths - Mehrad 2023",
+    "Nobody cares about Anne- oh wait I SHOULDN'T HAVE SAID THAT - Kerui 2023",
+    "Whether you're white, black, yellow or green, you should have equal rights - Kerui 2023",
+    "When Dylan says oops, it's likely a catastrophic disaster",
+    "I AM THE CALCULATOR - Lukas 2023",
     ]; 
