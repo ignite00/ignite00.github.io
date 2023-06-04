@@ -163,4 +163,5 @@ const quotes = [
     "Whether you're white, black, yellow or green, you should have equal rights - Kerui 2023",
     "When Dylan says oops, it's likely a catastrophic disaster",
     "I AM THE CALCULATOR - Lukas 2023",
+    "Dylan is the only leader - Mehrad 2023",
     ]; 
