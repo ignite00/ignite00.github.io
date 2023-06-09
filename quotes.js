@@ -118,7 +118,7 @@ const quotes = [
     "That sounds like a new quote! - Dylan, every 0.00382917284 seconds, 2023",
     "OMG THANK YOU GIRAFFE AND PIGEON - Lilian 2023",
     "Espie Van Hoosejick with that sigma male top g giga chad plays - Samik 2023",
-    "Dylan 有时候很烦，但是 Kerui 更烦, Lilian最烦 - Jesper 2023",
+    "Dylan 有时候很烦，但是 Kerui 更烦, Lilian 最烦 - Jesper 2023",
     "Who's the idiot now Samik - Lola 2023",
     "Am I scary - Lilian 2023",
     "你为什么要翻译这个你这个白痴 - Jesper 2023",
@@ -169,4 +169,5 @@ const quotes = [
     "Yimiiiiiiiiiiiinggggggggggggggg - Jesper 2023",
     "This is a no no zone - Lola 2023",
     "You're so monkey - Kerui 2023",
+    "我会吃 Mr Ang 的鱼 - Lilian 2023",
     ]; 
