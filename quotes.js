@@ -170,4 +170,7 @@ const quotes = [
     "This is a no no zone - Lola 2023",
     "You're so monkey - Kerui 2023",
     "我会吃 Mr Ang 的鱼 - Lilian 2023",
+    "YOU WANT A GO BRO? - Lola 2023",
+    "MY SPIDER SENSES ARE TINGLING - Lola 2023",
+    "Grab the conculator - Lola 2023",
     ]; 
