@@ -27,7 +27,7 @@ const quotes = [
     "I was so bad cos I went first… I got 90/100 😭 - Sophie 2023",
     "NOOOOO MY GPA WENT DOWN 0.17 POINTS!!! - Dylan 2023",
     "And I’m chilling here with my 13.5 GPA :D - Lilian 2023",
-    "SAY THAT AGAIN AND I WILL MURDER YOU SO BAD THAT YOU WON'T EVER BE BLIND AGAIN. YOU’LL BE FREAKIN DEAD - Lilian 2023", //30
+    "SAY THAT AGAIN AND I WILL MURDER YOU SO BAD THAT YOU WON'T EVER BE BLIND AGAIN. YOU’LL BE FREAKIN DEAD - Lilian 2023",
     "YOu KnoW WhAT THaT souNDS liKe? A YOU PROBLEM! - Mostly Lilian. but also nearly everyone in 700 2023",
     "TOFFEE IS DA BEST - Lilian 2023",
     "My hair just sticks up - Yiming",
@@ -101,7 +101,7 @@ const quotes = [
     "THAT'S CALLED EXLUSION - Lilian 2023",
     "It's like maths, except I can't fail - Dylan 2023",
     "I'm boredd - Lilian 2023",
-    "*Does something so pointless that nobody else would do* Cus why not I guess... - Dylan 2023",
+    "Cus why not?! - Dylan 2023",
     "CAUGHT IN 4K - Samik 2023",
     "I'll do it tomorrow cause I am lazy - Kerui 2023",
     "WHAT SCHOOL DID THEY GO TO?? Facebook time ;) - Lilian 2023",
@@ -168,4 +168,5 @@ const quotes = [
     "Naughty boy Yiming - Jesper 2023",
     "Yimiiiiiiiiiiiinggggggggggggggg - Jesper 2023",
     "This is a no no zone - Lola 2023",
+    "You're so monkey - Kerui 2023",
     ]; 
