@@ -66,4 +66,4 @@ Class 700
 
 
 
-QUOTE OF THE "WHATEVER": "The madman, he did it" - Dylan 2023
+QUOTE OF THE "WHATEVER": "You go girl" - Kerui 2023
