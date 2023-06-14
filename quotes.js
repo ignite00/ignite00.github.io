@@ -159,7 +159,7 @@ const quotes = [
     "Nobody cares about Anne- oh wait I SHOULDN'T HAVE SAID THAT - Kerui 2023",
     "Whether you're white, black, yellow or green, you should have equal rights - Kerui 2023",
     "When Dylan says oops, it's likely a catastrophic disaster",
-    "I AM THE CALCULATOR - Lukas 2023",
+    "I AM THE CALCULATOR DYLAN - Lukas 2023",
     "Dylan is the only leader - Mehrad 2023",
     "Let's hope Jesper doesn't have COVID, let's hope he has cancer! - Kerui 2023",
     "Naughty boy Yiming - Jesper 2023",
