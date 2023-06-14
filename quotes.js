@@ -171,4 +171,5 @@ const quotes = [
     "MY SPIDER SENSES ARE TINGLING - Lola 2023",
     "Grab the conculator - Lola 2023",
     "Finally I am white - Tyler 2023",
+    "Aanya why are you staring at Yiming's face??? - Jesper 2023",
     ]; 
