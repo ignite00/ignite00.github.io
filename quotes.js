@@ -172,4 +172,5 @@ const quotes = [
     "Grab the conculator - Lola 2023",
     "Finally I am white - Tyler 2023",
     "Aanya why are you staring at Yiming's face??? - Jesper 2023",
+    "Van Hoosey - Kerui 2023",
     ]; 
