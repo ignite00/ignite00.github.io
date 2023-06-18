@@ -173,4 +173,5 @@ const quotes = [
     "Finally I am white - Tyler 2023",
     "Aanya why are you staring at Yiming's face??? - Jesper 2023",
     "Van Hoosey - Kerui 2023",
+    "Jesper if u say o again then I will actually throw Sophie at u - Lilian 2023",
     ]; 
