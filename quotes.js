@@ -174,4 +174,5 @@ const quotes = [
     "Aanya why are you staring at Yiming's face??? - Jesper 2023",
     "Van Hoosey - Kerui 2023",
     "Jesper if u say o again then I will actually throw Sophie at u - Lilian 2023",
+    "We’re doing growth and development next term! I can’t wait for the practicals - Ming Lang 2023",
     ]; 
