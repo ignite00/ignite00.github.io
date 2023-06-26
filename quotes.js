@@ -176,4 +176,5 @@ const quotes = [
     "Jesper if u say o again then I will actually throw Sophie at u - Lilian 2023",
     "We’re doing growth and development next term! I can’t wait for the practicals - Ming Lang 2023",
     "Going back to Laos gonna eat fried turtles yum - Kerui 2023",
+    "I am going to smash you - Lilian 2023",
     ]; 
