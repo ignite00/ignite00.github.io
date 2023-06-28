@@ -178,5 +178,5 @@ const quotes = [
     "Going back to Laos gonna eat fried turtles yum - Kerui 2023",
     "I am going to smash you - Lilian 2023",
     "Suck Jesper please - Kerui 2023",
-    "If he doesn’t start working me and my straight A friends will storm over there and make him study so much he will forget what getting a B+ feels like - Dylan 2023"
+    "If you don't start working me and my straight A friends will storm over there and make you study so much you will forget what getting a B+ feels like - Dylan 2023"
     ]; 
