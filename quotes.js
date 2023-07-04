@@ -179,4 +179,5 @@ const quotes = [
     "I am going to smash you - Lilian 2023",
     "Suck Jesper please - Kerui 2023",
     "If you don't start working me and my straight A friends will storm over there and make you study so much you will forget what getting a B+ feels like - Dylan 2023"
+    "My GPA will be as low as Jesper’s height - Lilian 2023",
     ]; 
