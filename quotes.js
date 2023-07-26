@@ -35,8 +35,6 @@ const quotes = [
     "Nope. No. Fine… maybe. Nah… - Sophie 2023",
     "Short people always rage quit lol - Lilian 2023",
     "OMG I’m gonna fail!!! *gets A+* - Everyone in Ignite 2023",
-    "你不是我的好朋友 - Google Translate 2023",
-    "我会送你去见耶稣 - Google Translate 2023", 
     "I only see one capybara out of like sex - Lilian 2023",
     "So hopefully he will fix the white issue - Dylan 2023",
     "ThAtS whAT shE sAId! - Ming Lang 2023",
@@ -181,4 +179,7 @@ const quotes = [
     "If you don't start working me and my straight A friends will storm over there and make you study so much you will forget what getting a B+ feels like - Dylan 2023",
     "My GPA will be as low as Jesper’s height - Lilian 2023",
     "They look more like big red balls - Lilian 2023",
+    "Marijuana? Isn't that like margherita? - Lilian 2023",
+    "Lilian us - Jesper, Dylan, Enoch, Yiming 2023",
+    "Please move Kerui I simp you - Enoch 2023",
     ]; 
