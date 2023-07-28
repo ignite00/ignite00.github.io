@@ -182,4 +182,5 @@ const quotes = [
     "Marijuana? Isn't that like margherita? - Lilian 2023",
     "Lilian us - Jesper, Dylan, Enoch, Yiming 2023",
     "Please move Kerui I simp you - Enoch 2023",
+    "What do we have?... WE HAVE MATH!!! - Danny 2023"
     ]; 
