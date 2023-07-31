@@ -182,5 +182,6 @@ const quotes = [
     "Marijuana? Isn't that like margherita? - Lilian 2023",
     "Lilian us - Jesper, Dylan, Enoch, Yiming 2023",
     "Please move Kerui I simp you - Enoch 2023",
-    "What do we have?... WE HAVE MATH!!! - Danny 2023"
+    "What do we have?... WE HAVE MATH!!! - Danny 2023",
+    "Oh no, dylan, i do not think telling your friends to make an art apocalypse is a very nice thing. This may result in paint getting in eyes and pure colourblindness, even tho Samik Dua will not be affected, this is not a very responsible and leader-like thing to do - Lilian 2023",
     ]; 
