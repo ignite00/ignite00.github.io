@@ -183,5 +183,8 @@ const quotes = [
     "Lilian us - Jesper, Dylan, Enoch, Yiming 2023",
     "Please move Kerui I simp you - Enoch 2023",
     "What do we have?... WE HAVE MATH!!! - Danny 2023",
-    "Oh no, dylan, i do not think telling your friends to make an art apocalypse is a very nice thing. This may result in paint getting in eyes and pure colourblindness, even tho Samik Dua will not be affected, this is not a very responsible and leader-like thing to do - Lilian 2023",
+    "I am Jessie Wilkonson Junior - Jesper 2023",
+    "I am on top of Jesper - Kerui 2023",
+    "Kerui's name has been reduced to 2 emojis: 🔑 and 🦘 - Dylan 2023",
+    "Lola stop showing everyone your teeth! - Everyone 2023",
     ]; 
