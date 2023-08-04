@@ -187,4 +187,6 @@ const quotes = [
     "I am on top of Jesper - Kerui 2023",
     "Kerui's name has been reduced to 2 emojis: 🔑 and 🦘 - Dylan 2023",
     "Lola stop showing everyone your teeth! - Everyone 2023",
+    "Just bink it - Yiming 2023",
+    "Mate, this isn't Minecraft - Dylan 2023",
     ]; 
