@@ -66,4 +66,3 @@ Class 700
 
 
 
-QUOTE OF THE "WHATEVER": "You go girl" - Kerui 2023
