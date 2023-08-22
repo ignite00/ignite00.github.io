@@ -189,4 +189,10 @@ const quotes = [
     "Lola stop showing everyone your teeth! - Everyone 2023",
     "Just bink it - Yiming 2023",
     "Mate, this isn't Minecraft - Dylan 2023",
+    "Let's sleep together Tia! - Lilian 2023",
+    "I want to smash and bash Mehrad - Aysan 2023",
+    "Lolian is the only good ship - Lilian 2023",
+    "Angela is way too hot - Samik 2023",
+    "WUNDERBAR!!! - Jesper 2023",
+    "GUYS I'M TELLING MY MUM ON YOU - Lilian 2023",
     ]; 
