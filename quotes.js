@@ -195,4 +195,6 @@ const quotes = [
     "Angela is way too hot - Samik 2023",
     "WUNDERBAR!!! - Jesper 2023",
     "GUYS I'M TELLING MY MUM ON YOU - Lilian 2023",
+    "LILIAN DISOBEY ME AND I WILL DEFENESTRATE YOU - Ming Lang 2023",
+    "OOOOOOOOOOOOOOOOOOOOM - Lilian, Yiming, Ming Lang, Dylan 2023",
     ]; 
