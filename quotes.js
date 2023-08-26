@@ -196,5 +196,5 @@ const quotes = [
     "GUYS I'M TELLING MY MUM ON YOU - Lilian 2023",
     "LILIAN DISOBEY ME AND I WILL DEFENESTRATE YOU - Ming Lang 2023",
     "OOOOOOOOOOOOOOOOOOOOM - Lilian, Yiming, Ming Lang, Dylan 2023",
-    "Dylan: it will delete it, Ming Lang: It will delete ur mom, Dylan: But you're my mum..."
+    "Dylan: it will delete it, Ming Lang: It will delete ur mom, Dylan: But you're my mum...",
     ]; 
