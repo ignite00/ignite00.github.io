@@ -192,9 +192,9 @@ const quotes = [
     "Let's sleep together Tia! - Lilian 2023",
     "I want to smash and bash Mehrad - Aysan 2023",
     "Lolian is the only good ship - Lilian 2023",
-    "Angela is way too hot - Samik 2023",
     "WUNDERBAR!!! - Jesper 2023",
     "GUYS I'M TELLING MY MUM ON YOU - Lilian 2023",
     "LILIAN DISOBEY ME AND I WILL DEFENESTRATE YOU - Ming Lang 2023",
     "OOOOOOOOOOOOOOOOOOOOM - Lilian, Yiming, Ming Lang, Dylan 2023",
+    "Dylan: it will delete it, Ming Lang: It will delete ur mom, Dylan: But you're my mum..."
     ]; 
