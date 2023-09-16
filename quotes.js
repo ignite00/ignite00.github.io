@@ -197,4 +197,5 @@ const quotes = [
     "LILIAN DISOBEY ME AND I WILL DEFENESTRATE YOU - Ming Lang 2023",
     "OOOOOOOOOOOOOOOOOOOOM - Lilian, Yiming, Ming Lang, Dylan 2023",
     "Dylan: it will delete it, Ming Lang: It will delete ur mom, Dylan: But you're my mum...",
+    "I'm a gay shadow assassin - Jesper 2023",
     ]; 
