@@ -189,7 +189,6 @@ const quotes = [
     "Lola stop showing everyone your teeth! - Everyone 2023",
     "Just bink it - Yiming 2023",
     "Mate, this isn't Minecraft - Dylan 2023",
-    "Let's sleep together Tia! - Lilian 2023",
     "I want to smash and bash Mehrad - Aysan 2023",
     "Lolian is the only good ship - Lilian 2023",
     "WUNDERBAR!!! - Jesper 2023",
@@ -198,4 +197,5 @@ const quotes = [
     "OOOOOOOOOOOOOOOOOOOOM - Lilian, Yiming, Ming Lang, Dylan 2023",
     "Dylan: it will delete it, Ming Lang: It will delete ur mom, Dylan: But you're my mum...",
     "I'm a gay shadow assassin - Jesper 2023",
+    "I want to find the volume of a square - Ming Lang 2023",
     ]; 
