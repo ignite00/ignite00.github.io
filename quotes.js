@@ -198,6 +198,6 @@ const quotes = [
     "Dylan: it will delete it, Ming Lang: It will delete ur mom, Dylan: But you're my mum...",
     "I'm a gay shadow assassin - Jesper 2023",
     "I want to find the volume of a square - Ming Lang 2023",
-    "I am taller than Tyler sideways - Kerui 2023",
+    "I am taller than Tyler sideways - Kerui 2023", //200
     "I want to see nuts and balls - Yiming 2023",
     ]; 
