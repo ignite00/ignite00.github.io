@@ -205,5 +205,6 @@ const quotes = [
     "I want to see Ming's things - Yiming 2024, Same yum - Florence 2024",
     "PROPOGANDA MUSIC FTW IT'S SO MUCH BETTER THAN TAYLOR SWIFT - Jesper 2024",
     "Kerui shut up - Everyone 2024",
-    "ITS HARD - Tia 2024",
+    "ITS HARD OH GOD ITS COMING - Tia 2024",
+    "ITS HARD WHEN IM FEELING MYSELF ITS HARD - Tia 2024",
     ]; 
