@@ -98,7 +98,7 @@ const quotes = [
     "It's like maths, except I can't fail - Dylan 2023",
     "Cus why not?! - Dylan 2023",
     "CAUGHT IN 4K - Samik 2023",
-    "I'll do it tomorrow cause I am lazy - Kerui 2023",
+    "I'll do it tomorrow cause I am lazy - Kerui 2023", //100
     "WHAT SCHOOL DID THEY GO TO?? Facebook time ;) - Lilian 2023",
     "I love how I'm friends with Jesper, Kerui and Lilian but they all seem to despise each other - Dylan 2023",
     "I have the memory of Dory - Lilian 2023",
@@ -201,4 +201,8 @@ const quotes = [
     "I am taller than Tyler sideways - Kerui 2023", //200
     "I want to see nuts and balls - Yiming 2023",
     "Grab Ming's things - Yiming 2023",
+    "I LOVE DYLAN O BRIEN 😻😻😻 - Isabelle 2024",
+    "I want to see Ming's things - Yiming 2024, Same yum - Florence 2024",
+    "PROPOGANDA MUSIC FTW IT'S SO MUCH BETTER THAN TAYLOR SWIFT - Jesper 2024",
+    "Kerui shut up - Everyone 2024",
     ]; 
