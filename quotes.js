@@ -207,4 +207,5 @@ const quotes = [
     "Kerui shut up - Everyone 2024",
     "ITS HARD OH GOD ITS COMING - Tia 2024",
     "ITS HARD WHEN IM FEELING MYSELF ITS HARD - Tia 2024",
-    ]; 
+    "I got explosion - Tyler 2024", 
+    ];
