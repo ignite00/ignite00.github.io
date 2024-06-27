@@ -208,4 +208,6 @@ const quotes = [
     "ITS HARD OH GOD ITS COMING - Tia 2024",
     "ITS HARD WHEN IM FEELING MYSELF ITS HARD - Tia 2024",
     "I got explosion - Tyler 2024", 
+    "Why does Carl Bot always say I love you? Because I do - Florence 2024",
+    "IM GONNA WANT THAT A+ BY TMRW MR MOORE OR ELSE YIMING GETS IT - Jesper 2024",
     ];
