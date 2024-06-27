@@ -210,4 +210,6 @@ const quotes = [
     "I got explosion - Tyler 2024", 
     "Why does Carl Bot always say I love you? Because I do - Florence 2024",
     "IM GONNA WANT THAT A+ BY TMRW MR MOORE OR ELSE YIMING GETS IT - Jesper 2024",
+    "Did you just reject me for Kerui... - Florence 2024",
+    "WILL U GO OUT W MEEE KERUI 😍 - Tia 2024",
     ];
