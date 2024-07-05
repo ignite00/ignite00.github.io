@@ -214,4 +214,5 @@ const quotes = [
     "WILL U GO OUT W MEEE KERUI 😍 - Tia 2024",
     "Now I got all the girls eating my balls - Jesper 2024",
     "Jesper and Florence's pink balls are yummy - Dylan 2024",
+    "I wanna give you my squishy balls 😏😏😏😏😏😏 - Jesper 2024",
     ];
