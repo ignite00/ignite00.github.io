@@ -212,4 +212,6 @@ const quotes = [
     "IM GONNA WANT THAT A+ BY TMRW MR MOORE OR ELSE YIMING GETS IT - Jesper 2024",
     "Did you just reject me for Kerui... - Florence 2024",
     "WILL U GO OUT W MEEE KERUI 😍 - Tia 2024",
+    "Now I got all the girls eating my balls - Jesper 2024",
+    "Jesper and Florence's pink balls are yummy - Dylan 2024",
     ];
