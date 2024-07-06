@@ -215,4 +215,6 @@ const quotes = [
     "Now I got all the girls eating my balls - Jesper 2024",
     "Jesper and Florence's pink balls are yummy - Dylan 2024",
     "I wanna give you my squishy balls 😏😏😏😏😏😏 - Jesper 2024",
+    "Yiming isn't hard enough yet - Jesper 2024",
+    "Yiming are you hard yet? - Jesper 2024",
     ];
