@@ -225,4 +225,5 @@ const quotes = [
     "Yiming let me MAAMRRY YIUUUUU - Florence 2024",
     "Please tell me Tyler doesn't have a family - Ciyan 2024",
     "Why can't I marry more than 1 person? - Sophie 2024",
+    "Tyler has no family - Florence 2024",
     ];
