@@ -120,7 +120,6 @@ const quotes = [
     "Off to the mental asylum you go - Dylan 2023",
     "Shiny button must become so shiny that all blind people can see again :D - Lilian 2023",
     "*Insert suffering here* - Kerui 2023",
-    "I'll throw this paper plane into Tyler's face and pop his pimples - Linuka 2023",
     "I don't want to be innocent, I want to know things!! - Lilian 2023",
     "Freedom! That little piece of slime will no longer darken the world no more! Stupid Lilian - Kerui 2023",
     "I am good, you are bad, I like making you feel sad - Yiming/Jesper 2023",
@@ -198,8 +197,8 @@ const quotes = [
     "Dylan: it will delete it, Ming Lang: It will delete ur mom, Dylan: But you're my mum...",
     "I'm a gay shadow assassin - Jesper 2023",
     "I want to find the volume of a square - Ming Lang 2023",
-    "I am taller than Tyler sideways - Kerui 2023", //200
-    "I want to see nuts and balls - Yiming 2023",
+    "I am taller than Tyler sideways - Kerui 2023",
+    "I want to see nuts and balls - Yiming 2023", //200
     "Grab Ming's things - Yiming 2023",
     "I LOVE DYLAN O BRIEN 😻😻😻 - Isabelle 2024", //Class8.00
     "I want to see Ming's things - Yiming 2024, Same yum - Florence 2024",
