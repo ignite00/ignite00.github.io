@@ -1,5 +1,5 @@
 const quotes = [ 
-    "I have back problems, I know, I’m a grandpa - Samik 2023",
+    "I have back problems, I know, I’m a grandpa - Samik 2023", //Class7.00
     "Don’t you agree that Danny is spicy 🥵 - Samik 2023",
     "I coached my yr 5 friend last year through 4 boyfriends and 4 break ups - Lilian 2023",
     "Angela chair guy - Aanya 2023",
@@ -201,7 +201,7 @@ const quotes = [
     "I am taller than Tyler sideways - Kerui 2023", //200
     "I want to see nuts and balls - Yiming 2023",
     "Grab Ming's things - Yiming 2023",
-    "I LOVE DYLAN O BRIEN 😻😻😻 - Isabelle 2024",
+    "I LOVE DYLAN O BRIEN 😻😻😻 - Isabelle 2024", //Class8.00
     "I want to see Ming's things - Yiming 2024, Same yum - Florence 2024",
     "PROPOGANDA MUSIC FTW IT'S SO MUCH BETTER THAN TAYLOR SWIFT - Jesper 2024",
     "Kerui shut up - Everyone 2024",
