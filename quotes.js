@@ -241,4 +241,5 @@ const quotes = [
     "Its very tasty, my grandma's is even better - Jesper 2024",
     "Sh** fu** sh** fu** fu** sh** fu** sh** sh** fu** fu** fu** sh** sh** fu** sh** sh** fu** sh** fu** - Jesper 2024",
     "Oh no not the cock - Jesper 2024",
+    "I love cock - Florence 2024",
     ];
