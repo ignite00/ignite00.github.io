@@ -217,4 +217,7 @@ const quotes = [
     "I wanna give you my squishy balls 😏😏😏😏😏😏 - Jesper 2024",
     "Yiming isn't hard enough yet - Jesper 2024",
     "Yiming are you hard yet? - Jesper 2024",
+    "I choose Tia - Jesper 2024",
+    "TYLERS MMINE - Sophie 2024",
+    "She can have tyler - Sophie 2024",
     ];
