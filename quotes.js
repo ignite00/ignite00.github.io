@@ -221,4 +221,5 @@ const quotes = [
     "TYLERS MMINE - Sophie 2024",
     "She can have tyler - Sophie 2024",
     "Yiming, surely, marry me. - Sophie 2024",
+    "Yiming, sureeely let me marry you - Florence 2024",
     ];
