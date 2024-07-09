@@ -240,4 +240,5 @@ const quotes = [
     "Yiming is very sexy trust - Dylan 2024",
     "Its very tasty, my grandma's is even better - Jesper 2024",
     "Sh** fu** sh** fu** fu** sh** fu** sh** sh** fu** fu** fu** sh** sh** fu** sh** sh** fu** sh** fu** - Jesper 2024",
+    "Oh no not the cock - Jesper 2024",
     ];
