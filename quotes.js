@@ -246,4 +246,5 @@ const quotes = [
     "I LOVE YOU THE MOST FLORENCE ❤️❤️ - Jesper 2024",
     "I LOVE U MORE JESPER - Florence 2024",
     "Good night pookie Florence ❤️ - Jesper 2024",
+    " - Nathan 2024",
     ];
