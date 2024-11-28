@@ -257,5 +257,8 @@ const quotes = [
     "Sponge - Everyone 2024",
     "fridge u - Yiming 2024",
     "flap u - Dylan 2024",
-    "Yiming so spongey today - Ming Lang 2024"
+    "Yiming so spongey today - Ming Lang 2024",
+    "We're just really good friends guys - Florence and Jesper 2024",
+    "All platonic *as they are holding hands and hugging* - Jesper and Florence 2024",
+    ""
     ];
