@@ -200,7 +200,7 @@ const quotes = [
     "I am taller than Tyler sideways - Kerui 2023",
     "I want to see nuts and balls - Yiming 2023", //200
     "Grab Ming's things - Yiming 2023",
-    "I LOVE DYLAN O BRIEN 😻😻😻 - Isabelle 2024", //Class8.00
+    "I LOVE DYLAN O BRIEN 😻😻😻 - Isabelle 2024", //Class 8.00
     "I want to see Ming's things - Yiming 2024, Same yum - Florence 2024",
     "PROPOGANDA MUSIC FTW IT'S SO MUCH BETTER THAN TAYLOR SWIFT - Jesper 2024",
     "Kerui shut up - Everyone 2024",
@@ -246,4 +246,13 @@ const quotes = [
     "I LOVE YOU THE MOST FLORENCE ❤️❤️ - Jesper 2024",
     "I LOVE U MORE JESPER - Florence 2024",
     "Good night pookie Florence ❤️ - Jesper 2024",
+    "I DID NOT MAKE OUT WITH FLORENCE - Jesper 2024",
+    "Womp to the saddest f*cking womp - Florence 2024",
+    "What a sigam - Tia 2024",
+    "Sometimes I wish I was in Florence. Florence is so beautiful - Tyler 2024",
+    "I also wish I was in Florence sometimes - Oliver 2024",
+    "I lost to Florence - Ming Lang, Nov 2024",
+    "I pull men - Jesper 2024",
+    "Jesper's a monkey.. See I love monkeys - Tia 2024",
+    "Sponge - Everyone 2024",
     ];
