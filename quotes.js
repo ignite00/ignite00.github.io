@@ -255,4 +255,6 @@ const quotes = [
     "I pull men - Jesper 2024",
     "Jesper's a monkey.. See I love monkeys - Tia 2024",
     "Sponge - Everyone 2024",
+    "fridge u - Yiming 2024",
+    "flap u - Dylan 2024",
     ];
